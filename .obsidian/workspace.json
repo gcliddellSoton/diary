@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "8d14ee0b5cbeba09",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b1fe88f5c955ddb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6ee9bd26956445a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OneNote/Diary_20260410/2026Q2/AIMS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AIMS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94f92d66685fb621",
+    "type": "split",
+    "children": [
+      {
+        "id": "82ba089f2505dcda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cff789ab092c9d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e26b478322c2acf4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eaeee1b1d8b1dba7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2fbad0fbccb578dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2acda56ad69e3ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed82524019f6df85",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "676f170a536f94bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "300c92dc599f0002",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "304c3d2b076f0035",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "c6ee9bd26956445a",
+  "lastOpenFiles": [
+    "OneNote/Diary_20260410/2026 Q1/2025 Wk4.md",
+    "Exported image 20260410112727-0.png",
+    "2025-09-22 TEST.md",
+    "OneNote/Diary_20260410/2025 Q3/2025 Q3.md",
+    "OneNote/Diary_20260410/2026Q2/Untitled-20260410112908.md",
+    "OneNote/Diary_20260410/2026Q2/WK.md",
+    "OneNote/Diary_20260410/2025 Q3/NITRATE PROJECT.md",
+    "OneNote/Diary_20260410/2025 Q3/Intro + Keyword Bank.md",
+    "OneNote/Diary_20260410/2026Q2/AIMS.md",
+    "OneNote/Diary_20260410/2026 Q1/WK.md",
+    "OneNote/Diary_20260410/2026 Q1/AIMS.md",
+    "OneNote/Diary_20260410/2026 Q1/2025 WK5.md",
+    "OneNote/Diary_20260410/2026 Q1/2025 WK3.md",
+    "Exported image 20260410112825-9.png",
+    "Exported image 20260410112820-7.png",
+    "Exported image 20260410112746-1.jpeg",
+    "Exported image 20260410112742-0.jpeg",
+    "Exported image 20260410112739-0.png",
+    "Exported image 20260410112732-3.png",
+    "Exported image 20260410112730-2.png",
+    "Exported image 20260410112729-1.png",
+    "2026-04-10.md",
+    "OneNote/Diary_20260410/2025 Q3/Wk 39 6th Oct.md",
+    "OneNote/Diary_20260410/2025 Q3/Wk 38 29th Sept.md",
+    "Exported image 20260410113619-0.png",
+    "OneNote/Diary_20260410/2025 Q3/Wk 37 22nd Sept.md",
+    "OneNote/Diary_20260410/2025 Q3/Wk 36 15th Sept.md",
+    "OneNote/Diary_20260410/2025 Q3/Wk 35 8th Sept.md",
+    "OneNote/Diary_20260410/2025 Q3/Wk 34 1st Sept.md",
+    "OneNote/Diary_20260410/2025 Q3/Wk 33 25th Aug.md",
+    "OneNote/Diary_20260410/2025 Q3/Wk 32 18th Aug.md",
+    "OneNote/Diary_20260410/2025 Q3/Wk 31 11th Aug.md",
+    "OneNote/Diary_20260410/2025 Q3/Wk 30 4th Aug.md",
+    "OneNote/Diary_20260410/2025 Q3/Wk 29 28th July.md",
+    "OneNote/Diary_20260410/2025 Q3/Wk 28 21st July.md",
+    "OneNote/Diary_20260410/2025 Q3/Wk 27 14th July.md",
+    "OneNote/Diary_20260410/2025 Q3",
+    "Juncus - an overview _ ScienceDirect Topics 1.pdf",
+    "Juncus - an overview _ ScienceDirect Topics.pdf",
+    "OneNote/Diary_20260410/2025 Q2",
+    "OneNote/Diary_20260410/2025 Q1",
+    "OneNote/Diary_20260410/LEARNING",
+    "OneNote/Diary_20260410/LAB",
+    "OneNote/Diary_20260410/HOME",
+    "OneNote/Diary_20260410/2026Q2",
+    "Exported image 20260410112758-0.octet-stream",
+    "Untitled.canvas"
+  ]
+}

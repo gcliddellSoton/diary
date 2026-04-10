@@ -1,0 +1,17 @@
+- Review DMP: set a deadline before Week 12 of Q1!
+ 
+- - [ ] TC&A Chapter 7 Questions
+- - [ ] Rileys' Chapter 17 (eigenfunction methods for ODEs)
+- - [ ] Analyse sound recordings of seeds (not expecting massive results)
+- - [ ] Now that the helper functions are mostly sorted for Khait, run SVM code for it & continue working on the Poisson model
+- - [ ] Make Experimental plan for first experiment in Overleaf with graphs/diagrams (make account & integrate first!). Diagrams in Inkscape would probably be good 😊 ==[or just use bloody powerpoint!]==
+
+|   |   |   |
+|---|---|---|
+||Plan|Reflection|
+|Mon|Acoustics Lecture (9-11)  <br>Planning & Admin (11-12)<br><br>  <br><br>Run calcEntropy, calcEnergy etc on Khait dataset  <br>Check with facilities about sharps collection/bin ordering|(09.00-12.30) TC&A FEM & Riley's ODE reading  <br>(12.30-13.00) Handing over worms & checking plants  <br>(13.30- 16.00) Entropy tutorial writing  <br>16.40 Faffing<br><br>  <br><br>It was SOOO hot in the office today that I could barely think. But I was also quite tired from the weekend too.<br><br>  <br><br>Plants are now above ground, and using up water!  <br>[TODO: Calculating waterpotential from glass fibre|
+|Tues|Acoustics Study (9-12)<br><br>  <br><br>Reading (2-3.30)|(08.00-15.00) Very inefficiently worked towards getting all of the 'helper functions' working in functionsKhait.py! Kept switching between array and matrix versions of the code, which became very confusing, but I think we're there!! And it is slow, but not outrageously so I don't think.|
+|Weds|Acoustics Lectures (9-10)<br><br>  <br><br>Experimental planning/work|- (07.30-08.30) Faffed on looking up Git tutorials and what not<br>- (08.30-09.00) Worked efficiently on visualisations for 'Basic Features'<br>- (09.00-10.00) TC&A lecture. Finally, adding random extra bits to the diagonal of the Laplacian is making sense! It adds 'damping' to the system<br>- (10.00-11.30) Visualisations of 'Basic Features' finished!<br>- (11.30-12.30) Git/GitLab tutorial writing<br>- (13.15-13.50) Messaging Conor/Siul about lab stuff. Opened a screenshot in GIMP just to add a circle lol<br><br>  <br><br>Seems reasonable to assume office noise is APPROX. 45dB SPL (measured in wk 8 and got around this!). Just multiplying the signal from the Avisoft device gives 75dB. ```dbSPL = 20 * np.log10( abs(samples/500) / 20e-6 )```  <br>But this ain't quite right. The samples are 16 bit.|
+|Thurs|- [ ] Make up plantless soil-y falcon tubes  <br>- [ ] Record some sounds: 10 mins plant 10 mins not|- Becoming fairly proficient with GitLab, but Git still eludes me… A few hrs lost<br>- Didn't do the stuff the stuff on the todo list<br>- Supervisor meeting: discussed admin stuff, data, programming tips etc<br><br>  <br><br>Code Refactor:<br><br>  <br><br>Functions:<br><br>- Import .wav file.<br>    - DO NOT try to automate the rootDir<br>    - Always use 'data_root' from now on!<br>    - Check that the samplerate matches a global variable<br>    - Option to specify sample LENGTH too<br>- Iterate through directory structure, importing .wav files + metadata|
+|Fri|~~SoTeach 2 (1000-1300)~~  <br>Reading/writing (9-12)<br><br>  <br><br>Supervisor Meeting (2-3.30)|Away… Lorna 70th!|
+|Sat|Identiplant Fieldwork (9-10)||

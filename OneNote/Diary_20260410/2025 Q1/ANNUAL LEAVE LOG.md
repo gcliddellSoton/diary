@@ -1,0 +1,5 @@
+1 x Thursday in March (hedge planting)  
+1 x Monday in April (climbing)  
+15 x days September (Kyrgyzstan)  
+3 x Thurs+Fri+Mon October (Spain)  
+1 x Monday (climbing)

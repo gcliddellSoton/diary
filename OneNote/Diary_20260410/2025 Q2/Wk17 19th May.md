@@ -1,0 +1,17 @@
+|   |   |   |
+|---|---|---|
+||Plan|Reflection|
+|Mon|- [x] Run thresholding scripts for CORR = False, OVERLAP = TRUE -34 dB, -40dB, -42dB  <br>- [x] Attend 3MT  <br>- [ ] Identiplant QS7 (Caryophyllae)  <br>- [x] Upload Report to Teams<br><br>  <br>  <br><br>TODO:<br><br>- - [x] Add 'import from config file' option<br>- - [ ] Add git version to 'extractParallel.py'<br>- - [ ] ~~Start writing to output file instead of stdout at the beginning of the program!!~~<br>- - [ ] Deal with the overlap!!|Parallel code runs fine for –34dB and –40dB, but at –42dB we run into memory issues!!!<br><br>  <br><br>3MT was really good!! Lucy Hodgins and Daniel Hobson, and Syed... all were excellent. Chatted with Dan afterwards who mentioned Christine Evers<br><br>  <br><br>Re-factored to allow running from a .json file and iterating through them in a bash script.|
+|Tues|Acoustics Study (9-12)  <br>Reading (2-3.30)<br><br>  <br><br>- [x] Create table of blips and how they can be extracted: -34, -40, -42, -40corr ...  <br>- [ ] Produce function in statFunctions that measures the length of blip:  <br>- [ ] Outline of PowerPoint for First Experiment  <br>- [ ] Outline of Literature Review:  <br>- [ ] Plant stuff  <br>- [ ] Signal Processing  <br>- [ ] Environmental<br><br>  <br><br>**READING**<br><br>- Fahy – Foundations of Engineering Acoustics<br>- Lynn – Analysis & Processing of Signals (basics!)<br>- Oppenheim – DSP (Hilbert transforms etc.)<br>  <br>- Pickard – The Ascent of Sap in Plants|To calculate blip length, calculate envelope with Hilbert transform, then segment by thresholding.<br><br>  <br><br>For T131, 976s:<br><br>1. Hilbert transform wasn't aggressive enough on its own<br>2. Pre-filtering was tried, followed by taking magnitude/hilert transform<br>3. Another possibility was to use scipy.signal's 'B-spline' functions<br>4. Finally, sp.signal.envelope() works well with a pass-band of (1, 60000) to (1, 80000). Not sure of the inner workings though!!<br>5. Followed filtering and enveloping by threshold and binary closing<br>6. THOUGHT: lacks robustness... multi-scale methods like wavelet transforms become attractive now!!|
+|Weds|TODO PRIORITY:<br><br>1. - [ ] Add figure of blip segmentation and correlation in seedStuff<br>2. - [ ] Extract blipLength method to statFunctions<br>3. - [x] WRITINGGGGG!!!!!! (print off)<br><br>  <br><br>TODO LOW PRIORITY:<br><br>1. - [ ] Try sp.signal.savgol_filter()<br>2. - [ ] Sync back-up with laptop by transferring to harddrive<br>3. - [x] Message Jack Lawrence<br>4. - [x] Take photos in the chamber fro Michal<br><br>  <br>  <br>  <br><br>- [ ] Outline 3MT!!|- Should learn PyTorch over TensorFlow. Found COMP6248, Bat Conservation Trust course 'Advanced Sound Analysis'<br>- Proofread and made some corrections to the experimental report. Still need to : update the results table, add summary table & correct the Discussion section<br>- Spent afternoon taking photos<br>- Made corrections to violin plots in 'khaitreproduction'<br>- Changed the 'blipLength' algorithm to be more suitable for 'khaitreproduction'|
+|Thurs|NO CODING!!!! ONLY WRITING!!!  <br>Presentation (3 slides)  <br>Tidy GitLab repository READMEs|✓ ❌|
+|Fri|Supervisor Meeting (2-3.30)||
+|Sat|Identiplant Fieldwork (9-10)||
+       
+**22/05/2025**
+ 
+- Discussed presentation so far  
+- (MK) Before going all entropy, try simple frequency domain threshold  
+- (MK) Empirical mode decomposition  
+- (MK) Also the blipLength algorithm might be better in the frequency domain  
+- (MK) Overview slide would be beneficial!!

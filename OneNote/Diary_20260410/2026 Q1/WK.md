@@ -1,0 +1,4 @@
+- Acquire filing system at work or order it
+- Shop on way home from work (buy toothpaste!)
+- Ring Natwest for statements
+- Open Chase savings account and Nationwide Flex Regular

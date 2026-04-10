@@ -1,0 +1,12 @@
+- BAT-1 mount assembly (£75)
+- G.R.A.S. microphone, pre-amplifier and required circuitry from [Avisoft Catalog](https://avisoft.com/price-list-ordering-information/)
+ 
+- Tin foil
+- Ethanol
+- Unscented bleach
+- Calibration weights for scales
+- GP2 logger
+- Pots & trays
+- Levington F2+S/John Innes No. 3/Vermiculite - 2 x (½"m – 3/8"m) and 2 x ( ½"m – 1/8"m) thread adapters
+- NI DAQ USB-6453
+- 4 x CM16/CMPA
