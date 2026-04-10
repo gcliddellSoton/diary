@@ -14,7 +14,7 @@
     3. **applying functions to a sliding window**
     4. **comic sans for matplotlib**
  
-1. **Running from the command-line and debugging**
+# 1. **Running from the command-line and debugging**
 
 Running python in the commandline:  
 ```  
@@ -34,7 +34,7 @@ You can then use
 
 etc. Etc. And I think ```exit``` runs the rest of the program without stopping, although I'm yet to work this out!
     
-**2. Hints & Tips**
+# **2. Hints & Tips**
  
 |   |   |
 |---|---|
@@ -47,12 +47,12 @@ etc. Etc. And I think ```exit``` runs the rest of the program without stopping, 
 |**Multiprocessing**|classes:<br><br>- Process(target, args) is exactly that!<br>    - methods: start/join/kill/terminate/is_alive<br>  <br>- Pool(processes) starts a number of processes, maybe easier than creating processes directly<br>    - methods: map, impa_unordered, apply_async<br>  <br>- Queue() [see also queue library!] not currently necessary, but might be useful for saving progress etc!<br><br>  <br>  <br>  <br><br>- Array(), Value() [see also array library] created shared memory to be accessed by the processes|
 |**Version-stamping**|I want the output of my code to be stamped with:<br><br>- repository name<br>- commit hash<br>- filename<br><br>As this will make sure that I can ALWAYS reproduce any of the figures that I have ever made!! Simplest is … open(".git/refs/HEAD").read(). Next most sophist.  <br>```  <br>import subprocess  <br>subprocess.check_output([  <br>'git',  <br>'rev-parse',  <br>'HEAD'  <br>]).decode('ascii').strip()  <br>```  <br>Or alternatively...  <br>```  <br>import subprocess, os  <br>subprocess.check_output(  <br>["git", "describe", "--always"],  <br>cwd=os.path.dirname(os.path.abspath(__file__))  <br>).strip().decode()  <br>```<br><br>  <br><br>Or a frankenstein solution:  <br>```  <br>import os  <br>repo = os.path.dirname(os.path.abspath(__file__))  <br>commit = open(os.path.join(repo, '.git', 'refs', 'HEAD')).read()  <br>```|
 |**error handling…**|DO NOT USE TRY/EXCEPT UNLESS YOU KNOW MORE THAN ME!!!<br><br>  <br><br>If you're worrying about something that's inside a function, the best thing you can do is return early with an error code.<br><br>  <br><br>def func(arg1, arg2):  <br>return err, val<br><br>  <br><br>If you have to use try/except, make sure to use them PROPERLY. Except only the error type that you are expecting. Then if another error is raised, then it will be raised separately.<br><br>  <br><br>[Stop using Try/Catch in Python. An introduction to Safe Assignment in… \| by Adonis Gaitatzis \| Medium](https://gaitatzis.medium.com/stop-using-try-catch-in-python-2c8f55870372)<br><br>\> From \<[https://gaitatzis.medium.com/stop-using-try-catch-in-python-2c8f55870372](https://gaitatzis.medium.com/stop-using-try-catch-in-python-2c8f55870372)\>|
-      
+
 
 **F-strings!!!**
    
 
-1. **NUMPY/PANDAS/MATPLOTLIB**
+# 3. **NUMPY/PANDAS/MATPLOTLIB**
  
 **NumPy**  
 **Scientific Python Lectures — Scientific Python Lectures**
@@ -73,8 +73,8 @@ Follow the Scientific Python Lectures too! But also:
 |**Regex**||uses an object-oriented approach, which can be confusing! The way to extract the sequence you are searching for immediately is to use the `group()` method.|
 ||||
  
-**Courses**
-    
+# **Courses**
+
 **From Youtube**
  
 [Spectral Subtraction In Python - Alexx Mitchell](https://www.youtube.com/watch?v=Xb--68NlxS0&t=348s)

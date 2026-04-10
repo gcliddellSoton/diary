@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1b1fe88f5c955ddb",
+        "id": "b1396407b9718fcd",
         "type": "tabs",
         "children": [
           {
-            "id": "c6ee9bd26956445a",
+            "id": "044ea3de3fb57da4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OneNote/Diary_20260410/2026Q2/AIMS.md",
+                "file": "OneNote/Diary_20260410/LAB/0906 SHOPPING LIST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AIMS"
+              "title": "0906 SHOPPING LIST"
             }
           }
         ]
@@ -167,8 +167,24 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c6ee9bd26956445a",
+  "active": "044ea3de3fb57da4",
   "lastOpenFiles": [
+    "OneNote/Diary_20260410/2026Q2/AIMS.md",
+    "OneNote/Diary_20260410/LAB/0906 SHOPPING LIST.md",
+    "OneNote/Diary_20260410/LAB/1004 ANECHOIC XPMT.md",
+    "OneNote/Diary_20260410/LAB/1004 TAKE-OUTS FROM MINI EGG-PROJECT.md",
+    "OneNote/Diary_20260410/LEARNING/SIDE-QUESTS.md",
+    "OneNote/Diary_20260410/LEARNING/SoTEACH.md",
+    "OneNote/Diary_20260410/LEARNING/STATISTICS.md",
+    "OneNote/Diary_20260410/LEARNING/RASPBERRY PI.md",
+    "OneNote/Diary_20260410/LEARNING/PYTHON ENVIRONMENTS.md",
+    "OneNote/Diary_20260410/LEARNING/PYTHON.md",
+    "OneNote/Diary_20260410/LEARNING/PROGRAMMING SETUP.md",
+    "OneNote/Diary_20260410/LEARNING/NOTE-TAKING.md",
+    "OneNote/Diary_20260410/LEARNING/LATEXOVERLEAF.md",
+    "OneNote/Diary_20260410/LEARNING/IDENTIPLANT.md",
+    "OneNote/Diary_20260410/LEARNING/C AND PYTHON.md",
+    "OneNote/Diary_20260410/LEARNING/ARDUINO.md",
     "OneNote/Diary_20260410/2026 Q1/2025 Wk4.md",
     "Exported image 20260410112727-0.png",
     "2025-09-22 TEST.md",
@@ -177,11 +193,9 @@
     "OneNote/Diary_20260410/2026Q2/WK.md",
     "OneNote/Diary_20260410/2025 Q3/NITRATE PROJECT.md",
     "OneNote/Diary_20260410/2025 Q3/Intro + Keyword Bank.md",
-    "OneNote/Diary_20260410/2026Q2/AIMS.md",
     "OneNote/Diary_20260410/2026 Q1/WK.md",
     "OneNote/Diary_20260410/2026 Q1/AIMS.md",
     "OneNote/Diary_20260410/2026 Q1/2025 WK5.md",
-    "OneNote/Diary_20260410/2026 Q1/2025 WK3.md",
     "Exported image 20260410112825-9.png",
     "Exported image 20260410112820-7.png",
     "Exported image 20260410112746-1.jpeg",
@@ -190,21 +204,7 @@
     "Exported image 20260410112732-3.png",
     "Exported image 20260410112730-2.png",
     "Exported image 20260410112729-1.png",
-    "2026-04-10.md",
-    "OneNote/Diary_20260410/2025 Q3/Wk 39 6th Oct.md",
-    "OneNote/Diary_20260410/2025 Q3/Wk 38 29th Sept.md",
     "Exported image 20260410113619-0.png",
-    "OneNote/Diary_20260410/2025 Q3/Wk 37 22nd Sept.md",
-    "OneNote/Diary_20260410/2025 Q3/Wk 36 15th Sept.md",
-    "OneNote/Diary_20260410/2025 Q3/Wk 35 8th Sept.md",
-    "OneNote/Diary_20260410/2025 Q3/Wk 34 1st Sept.md",
-    "OneNote/Diary_20260410/2025 Q3/Wk 33 25th Aug.md",
-    "OneNote/Diary_20260410/2025 Q3/Wk 32 18th Aug.md",
-    "OneNote/Diary_20260410/2025 Q3/Wk 31 11th Aug.md",
-    "OneNote/Diary_20260410/2025 Q3/Wk 30 4th Aug.md",
-    "OneNote/Diary_20260410/2025 Q3/Wk 29 28th July.md",
-    "OneNote/Diary_20260410/2025 Q3/Wk 28 21st July.md",
-    "OneNote/Diary_20260410/2025 Q3/Wk 27 14th July.md",
     "OneNote/Diary_20260410/2025 Q3",
     "Juncus - an overview _ ScienceDirect Topics 1.pdf",
     "Juncus - an overview _ ScienceDirect Topics.pdf",

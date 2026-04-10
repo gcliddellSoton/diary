@@ -5,10 +5,10 @@
  
 The best first introduction looks to be 'Head First C': [https://karadev.net/uroci/filespdf/files/head-first-c-o-reilly-david-grifffiths-dawn-griffiths.pdf](https://karadev.net/uroci/filespdf/files/head-first-c-o-reilly-david-grifffiths-dawn-griffiths.pdf).  
 Although it looks extremely dense: 'Numerical Recipes in C' could be a useful reference for specific algorithms at some point: **https://www.cec.uchile.cl/cinetica/pcordero/MC_libros/NumericalRecipesinC.pdf****. It may also be worth looking into Julia language instead too!**
- 
-**===============================================================================**
 
-1. **POINTERS**
+---
+
+## **POINTERS**
  
 This is definitely the best tutorial:  
 [https://cplusplus.com/doc/tutorial/pointers/](https://cplusplus.com/doc/tutorial/pointers/)
@@ -20,7 +20,7 @@ Always remember:
  
 ===============================================================================
 
-1. **OVERLOADS & TEMPLATES**
+## **OVERLOADS & TEMPLATES**
  
 Overload = multiple function definitions for different argument types. May or may not have different body  
 Template = a generic type, so that a function can be overloaded without defining it multiple times
@@ -28,7 +28,7 @@ Template = a generic type, so that a function can be overloaded without defining
 
 **===============================================================================**
 
-1. **C SEGFAULT NOTE**
+## **C SEGFAULT NOTE**
  
 - Dererencing a null pointer
 - Dereferencing or assigning to an uninitialised pointer
@@ -58,7 +58,7 @@ To correct it, use `char s[]` which initialises a character buffer on the stack 
 
 **===============================================================================**
 
-1. **CYTHON**
+## **CYTHON**
  
 Basic tutorial: **https://proceedings.scipy.org/articles/MJMV8092**  
 Numerical specifics: [https://lectures.scientific-python.org/advanced/interfacing_with_c/interfacing_with_c.html](https://lectures.scientific-python.org/advanced/interfacing_with_c/interfacing_with_c.html)

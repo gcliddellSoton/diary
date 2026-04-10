@@ -1,11 +1,11 @@
-|   |   |   |   |   |
-|---|---|---|---|---|
-|Recording ID|Row|Pot|Control|Microphone Configuration|
-|97/98|R1|Ch1|Ch2|Mic1-\>Ch1-\>Cable1|
-|99/100|R2|Ch2|Ch1|Mic1-\>Ch1-\>Cable1|
-|101/102/103|R3|Ch2|Ch1|Mic1-\>Ch3-\>Cable1/Mic2-\>Ch4-\>Cable2|
-|104|R4|Ch1|Ch2|Mic1-\>Ch2-\>Cable2|
-|105|R5|Ch2|Ch1|Mic1-\>Ch2-\>Cable2|
+|              |     |     |         |                                         |
+| ------------ | --- | --- | ------- | --------------------------------------- |
+| Recording ID | Row | Pot | Control | Microphone Configuration                |
+| 97/98        | R1  | Ch1 | Ch2     | Mic1-\>Ch1-\>Cable1                     |
+| 99/100       | R2  | Ch2 | Ch1     | Mic1-\>Ch1-\>Cable1                     |
+| 101/102/103  | R3  | Ch2 | Ch1     | Mic1-\>Ch3-\>Cable1/Mic2-\>Ch4-\>Cable2 |
+| 104          | R4  | Ch1 | Ch2     | Mic1-\>Ch2-\>Cable2                     |
+| 105          | R5  | Ch2 | Ch1     | Mic1-\>Ch2-\>Cable2                     |
     
 Quite worried about the amount of noise on Ch1…
 

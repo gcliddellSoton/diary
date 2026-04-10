@@ -8,7 +8,7 @@
 8. SAMD21 sercom ports
    
 
-**Macros**  
+## **Macros**  
 ```  
 #define SD_SCK_MHZ(maxMhz) (1000000UL * (maxMhz))  
 ```  
@@ -18,7 +18,7 @@ typedef TYPE1 TYPE2
 ```  
 just makes TYPE2 an alias of TYPE1. In Sdfat library, it is apparently used to ensure backcompatibility.
  
-**Non-blocking Delays**
+## **Non-blocking Delays**
  
 **Millis…**  
 [https://docs.arduino.cc/built-in-examples/digital/BlinkWithoutDelay/](https://docs.arduino.cc/built-in-examples/digital/BlinkWithoutDelay/)
@@ -40,7 +40,7 @@ if ( myDelay(x) ) return;
 
 \> From \<[https://forum.arduino.cc/t/lantern-with-sos-led/921561/9?_gl=1*d3k0ds*_up*MQ..*_ga*MjExMTQ2NjYyMC4xNzYzNDkzNTU0*_ga_NEXN8H46L5*czE3NjM0OTM1NTQkbzEkZzAkdDE3NjM0OTM1NTQkajYwJGwwJGgxNzMwMzk2NTM0](https://forum.arduino.cc/t/lantern-with-sos-led/921561/9?_gl=1*d3k0ds*_up*MQ..*_ga*MjExMTQ2NjYyMC4xNzYzNDkzNTU0*_ga_NEXN8H46L5*czE3NjM0OTM1NTQkbzEkZzAkdDE3NjM0OTM1NTQkajYwJGwwJGgxNzMwMzk2NTM0)\>     
 
-**Interrupts**  
+## **Interrupts**  
 **Docs -** [https://docs.arduino.cc/language-reference/en/functions/external-interrupts/attachInterrupt/?_gl=1*1y8h46r*_up*MQ..*_ga*MjkwNjQ0MDkwLjE3NjM0OTA0MDU.*_ga_NEXN8H46L5*czE3NjM0OTA0MDQkbzEkZzAkdDE3NjM0OTA0MDQkajYwJGwwJGg3MTMzMjg1Mw](https://docs.arduino.cc/language-reference/en/functions/external-interrupts/attachInterrupt/?_gl=1*1y8h46r*_up*MQ..*_ga*MjkwNjQ0MDkwLjE3NjM0OTA0MDU.*_ga_NEXN8H46L5*czE3NjM0OTA0MDQkbzEkZzAkdDE3NjM0OTA0MDQkajYwJGwwJGg3MTMzMjg1Mw)..  
 **Extra Info -** [https://gammon.com.au/interrupts](https://gammon.com.au/interrupts)
  

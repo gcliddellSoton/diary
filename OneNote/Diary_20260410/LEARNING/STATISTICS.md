@@ -1,6 +1,6 @@
 - Truncated distributions
 - Hampel filtering!
-    
+
 **Factor Analysis VS Principal Component Analysis**
  
 During the Statistics Summer School, Exploratory & Confirmatory Factor Analysis came up in the workshop on 'Structural Equation Modelling'. James described the difference between SEM/FA and PCA or regression in terms of direction of inference:
@@ -38,5 +38,4 @@ Finally, the chapter discusses Probabilistic PCA, and ends with the following eq
 Which is of course a Least Squares solution (or looks a helluva lot like it!)
     ![Geometric interpretation edit The parameters and v...](Exported%20image%2020260410113236-5.png)   
 **Extreme Value Distributions**
- 
 ...
