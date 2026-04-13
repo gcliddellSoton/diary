@@ -29,7 +29,7 @@ cssclasses: diary-week
 > - [ ] (0900-1130) Make Bonisoli code corrections
 > - [x] (1130-1230) Drive to Highfield
 > - [x] (1300-1500) Bonisoli method section proofreading
-> - [ ] (????-????) Add Bonisoli Results & Discussion
+> - [x] (????-????) Add Bonisoli Results
 
 > [!abstract]+ Bonisoli corrections
 >- [x] Make empty Git commit to allow reversal
@@ -42,7 +42,8 @@ cssclasses: diary-week
 > (0900-0930) Fiddling with Obsidian formatting. Now have callouts for each day etc
 > (0930-1045) Resized fonts and slide sizes in PowerPoint, rephrased Bonisoli introduction
 > (1045-1230) Looking for Irene's earring, tidying up garden, driving to Southampton
-> (1230-1300) Code tidying in 4_2_event_detection_bonisoli.
+> (1230-1300) Code tidying in 4_2_event_detection_bonisoli
+> (1400-1515) Started to copy across code for Bonisoli corrections, starting with demonstrations in 4_3_event_detection. Also saw that results in 5_benchmarking seem to have reverted to how they were before I made corrections to how R/P are calculated. They are still correct at commit #8e8508fae9e78375313b1dca264822704337aad7
 
 
 ---
