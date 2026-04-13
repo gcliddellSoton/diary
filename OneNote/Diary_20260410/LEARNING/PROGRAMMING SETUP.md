@@ -346,7 +346,7 @@ Outputs:
 ==This isn't EXACTLY what I'd eventually like to do, which is just take a folder of stuff from my computer and just 'push' it all at once, with a new repository/log/readme etc being created automatically. We're getting closer though. On GitLab, there are allegedly some instructions on how to== ==push an existing Git repository with the following commands:==
 ```bash
 cd existing_repo  
-git remote add origin [https://git.soton.ac.uk/gcl1r25/khaitreproduction.git](https://git.soton.ac.uk/gcl1r25/khaitreproduction.git)  
+git remote add origin https://git.soton.ac.uk/gcl1r25/khaitreproduction.git
 git branch -M main  
 git push -uf origin main
 ```
