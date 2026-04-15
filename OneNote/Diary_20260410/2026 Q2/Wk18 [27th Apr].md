@@ -7,11 +7,6 @@ cssclasses: diary-week
 > [!abstract]+ 🔭 Long-Term Goals
 > - 
 
-> [!check]+ ✅ TODO This Week
-> - 
-> - 
-> - 
-
 > [!warning]+ 📅 Post 6-Month TODO
 > - 
 
