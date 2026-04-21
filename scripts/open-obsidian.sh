@@ -1,4 +1,7 @@
 #!/bin/bash
+pwd
+cd "$(dirname "$0")"
+pwd
 
 # sync and open
 bash obsidian-sync.sh
