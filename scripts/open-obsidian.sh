@@ -1,7 +1,7 @@
 #!/bin/bash
 
-VAULT = "~/Documents/Obsidian Vault"
-SYNC = "~/Documents/Obsidian Vault/scripts/obsidian-sync.sh"
+VAULT = "/Documents/Obsidian Vault"
+SYNC = "/Documents/Obsidian Vault/scripts/obsidian-sync.sh"
 
 cd "$VAULT"
 echo "Obsidian Vault opening..."
@@ -15,4 +15,5 @@ flatpak run md.obsidian.Obsidian --vault="$VAULT"
 wait
 
 #push on close
-bash "$SYNC"
+ls -al
+bash obsidian-sync.sh
