@@ -36,7 +36,7 @@ cssclasses: diary-week
 
 > [!abstract]+ Bonisoli corrections
 >- [x] Make empty Git commit to allow reversal
->- [ ] Add code to find 1) centre index, 2) duration, 3) do FFT and 4) find maximum. 5) calculate # oscillations
+>- [x] Add code to find 1) centre index, 2) duration, 3) do FFT and 4) find maximum. 5) calculate # oscillations
 >- [ ] Run code on several small examples
 >- [ ] Run on Khait, and Calibration using 5_benchmarking
 >- [ ] Run on BAR/RUS using corresponding scripts
@@ -58,8 +58,18 @@ cssclasses: diary-week
 
 ## Tue 14th Apr
 
-> [!todo]+ 📋 Plan
-> - 
+> [!abstract]+ 📋 Plan
+> - [ ] (0900-1130) Make Bonisoli code corrections
+> - [ ] Ask Michelle about refunding Nottingham costs (+ post on Blablacar + buy blinds)
+> - [ ] Bicycle fork to EDMC??
+
+
+> [!abstract]+ Bonisoli corrections
+>- [x] Make empty Git commit to allow reversal
+>- [x] Add code to find 1) centre index, 2) duration, 3) do FFT and 4) find maximum. 5) calculate # oscillations
+>- [ ] Run code on several small examples
+>- [ ] Run on Khait, and Calibration using 5_benchmarking
+>- [ ] Run on BAR/RUS using corresponding scripts
 
 > [!note]+ 💭 Reflection
 > 
