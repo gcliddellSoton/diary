@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5a9abb71e23cff18",
+        "id": "ae34c1be524295ea",
         "type": "tabs",
         "children": [
           {
-            "id": "f31336aad4862866",
+            "id": "f0693aa83318af42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OneNote/Diary_20260410/LEARNING/BASH.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "BASH"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "f-string",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,17 +163,18 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f31336aad4862866",
+  "active": "f0693aa83318af42",
   "lastOpenFiles": [
-    "OneNote/Diary_20260410/LEARNING/PYTHON.md",
-    "OneNote/Diary_20260410/LEARNING/BASH.md",
-    "OneNote/Diary_20260410/LEARNING/PYTHON ENVIRONMENTS.md",
+    "OneNote/Diary_20260410/2026 Q2/Wk17 [20th Apr].md",
     "OneNote/Diary_20260410/LEARNING/PROGRAMMING SETUP.md",
+    "OneNote/Diary_20260410/2026 Q2/Wk18 [27th Apr].md",
+    "OneNote/Diary_20260410/LEARNING/BASH.md",
+    "OneNote/Diary_20260410/LEARNING/PYTHON.md",
+    "OneNote/Diary_20260410/LEARNING/PYTHON ENVIRONMENTS.md",
     "OneNote/Diary_20260410/LEARNING/NOTE-TAKING.md",
     "OneNote/Diary_20260410/LEARNING/LATEXOVERLEAF.md",
     "OneNote/Diary_20260410/LEARNING/IDENTIPLANT.md",
     "OneNote/Diary_20260410/LEARNING/C AND PYTHON.md",
-    "OneNote/Diary_20260410/2026 Q2/Wk17 [20th Apr].md",
     "OneNote/Diary_20260410/2026 Q2/Wk16 [13th Apr].md",
     "OneNote/Diary_20260410/2026 Q2/Wk15 [6th Apr].md",
     "OneNote/Diary_20260410/2026 Q1/2025 WK14.md",
@@ -194,7 +191,6 @@
     "OneNote/Diary_20260410/2026 Q2/Wk23 [1st Jun].md",
     "OneNote/Diary_20260410/2026 Q2/Wk22 [25th May].md",
     "OneNote/Diary_20260410/2026 Q2/Wk21 [18th May].md",
-    "OneNote/Diary_20260410/2026 Q2/Wk20 [11th May].md",
     "OneNote/Diary_20260410/2026 Q2",
     "OneNote/Diary_20260410/2026 Q2/snippets/diary-week.css",
     "OneNote/Diary_20260410/2026 Q2/snippets",
