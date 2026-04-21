@@ -40,17 +40,31 @@ cssclasses: diary-week
 ## Tue 21st Apr
 
 > [!todo]+ 📋 Plan
-> - 
+> - [x] Check whether Bonisoli code has actually run
+> - [x] Re-run it if not
+> - [x] Make adjustments to Bonisoli diagram to show external sounds
+> - [ ] Call NFU Mutual after work
+
 
 > [!note]+ 💭 Reflection
-> 
+> (1000-1200) Wasted time trying to sync Obsidian via a shell script on open/close (does work)
+> (1200-1215) Check if Bonisoli ran! Ran to 52% on the Khait dataset!!! Assuming it succeeded on CAL?
+> (1230-1400) Lunch and car move
+> (1400-1650) Made Bonisoli method corrections, figure adjustments, and drafted Klaminder
 
 ---
 
 ## Wed 22nd Apr
 
 > [!todo]+ 📋 Plan
-> - 
+> - [ ] Bonisoli corrections
+> - [ ] Rename files in CSEG_3 so that everything is gucchi for a Pure upload!
+> - [ ] AFTER meeting: draw up Lorna's irrigation system diagrams:
+> 	- 1: Mains valve + timer
+> 	- 2: Pump + float valve + timer
+> 	- 3: Pump + float valve + controller
+> 	- a: mains elec./water and solar/water butt costing
+> 	- b: labour costs
 
 > [!note]+ 💭 Reflection
 > 
