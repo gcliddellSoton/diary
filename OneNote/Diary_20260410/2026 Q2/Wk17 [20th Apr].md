@@ -8,9 +8,10 @@ cssclasses: diary-week
 > - 
 
 > [!check]+ ✅ TODO This Week
-> - 
-> - 
-> - 
+> - Make corrections to Bonisoli code and also continue corrections to Bonisoli method
+> - Change car insurance
+> - Get paintwork fixed
+> - Unlock bike
 
 > [!info]+ 🎯 Aims This Week
 > - 
@@ -23,10 +24,16 @@ cssclasses: diary-week
 ## Mon 20th Apr
 
 > [!todo]+ 📋 Plan
-> - 
+> - [ ] Michal & Siul corrections
+> - [ ] Code Bonisoli example
+> - [x] Submit timesheets
 
 > [!note]+ 💭 Reflection
-> 
+> (1000-1155) Making adjustments to Bonisoli duration detection
+> (1200-1300) Some edits to draft
+> (1300-1330) Tiina meeting
+> (1330-1345) Timesheets 
+> (1400-1500) Bonisoli example nearly looks like it's working!!
 
 ---
 
