@@ -26,7 +26,7 @@ source ~/miniconda3/bin/activate
 conda init --all  
 ```
     
-I also then added the conda command to PATH environment variables (First making a backup of PATH saved to my OneDrive in the Admin + Inductions folder!), using the Windows GUI environment variable editor. ==This hasn't been a great solution…==
+I also then added the conda command to PATH environment variables (First making a back-up of PATH saved to my OneDrive in the Admin + Inductions folder!), using the Windows GUI environment variable editor. ==This hasn't been a great solution…==
  
 When updating conda/managing packages etc. there's a lot of useless files generated!! Use  
 ```  

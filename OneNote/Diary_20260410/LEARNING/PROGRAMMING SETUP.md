@@ -232,32 +232,31 @@ rsync -rv --progress "/local/scratch/gcl1r25/GitRepos/Avisoft Bioacoustics/xpmt_
 >[!note] NOTE: the `-a` flag prevents WAV files being transferred properly, possibly because the implicit –p (preserve permissions)
 ## Back-up notes
 
-Timeshift on Linux
+> [!note] THE 3-2-1 RULE
+> - 3 copies
+> - 2 physical locations
+> - 1 offline copy
 
-Using rsync effectively: [https://www.reddit.com/r/linuxquestions/comments/1b74ucd/using_rsync_to_backup_effectively/](https://www.reddit.com/r/linuxquestions/comments/1b74ucd/using_rsync_to_backup_effectively/)
+ > [!caution]+ Questions for iSolutions
+ >- Q: Why is my OneDrive saying I only have 200GB of space? A: bcs policy has changed
+> - Q: Should I be doing system-level back-ups or just files and folders?
+> - Q: How can I do full OneDrive downloads?
 
-Should I be doing system-level back-ups or just files and folders?
+- Timeshift on Linux would be easily the simplest option, if allowed by the university
+- Using rsync effectively: [https://www.reddit.com/r/linuxquestions/comments/1b74ucd/using_rsync_to_backup_effectively/](https://www.reddit.com/r/linuxquestions/comments/1b74ucd/using_rsync_to_backup_effectively/)
 
-How can I do full OneDrive downloads?
+>[!todo]+ 
+> - [ ]Personal OneDrive: Download and add as a subfolder of Southampton OneDrive
+> - [ ] Southampton OneDrive: Download and push back-up to external drive
+> - [ ] Windows laptop C: drive: ???? Don't use?
+> - [ ] Linux  /local/scratch setup Timeshift?
+> - [ ] CSEG_3 ??????? setup rsync back-up script on desktop ???????
 
-> Personal OneDrive:
-Download and add as a subfolder of Southampton OneDrive
-
-> Southampton OneDrive:
-Download and push back-up to external drive
-
-> Windows laptop C: drive:
-???? Don't use?
-
-> Linux  /local/scratch
-Timeshift?
-
-> CSEG_3
-??????? rsync script on desktop ???????
-
-> Questions for iSolutions:
--Why is my OneDrive saying I only have 200GB of space?
-
+ 
+> [15/04/2026]
+- UmbrelOS would make a good research start point for home server. Then install NextCloud?
+- Wireguard or OpenVPN would allow the home cloud to be accessible anywhere
+- Apache is the software required for self-hosting a web server
 ---
 # Git/Gitlab
 ## Index
@@ -386,7 +385,7 @@ For the SSH url I used git@git.soton.ac.uk:gcl1r25/khaitreproduction.git like wh
 > * [new branch]      main -> main
 > branch 'main' set up to track '[git@git.soton.ac.uk:gcl1r25/khaitreproduction.git/main'.](mailto:git@git.soton.ac.uk:gcl1r25/khaitreproduction.git/main)
 
-==Basically, my situation (billy no(-team)-mates) is that I'd like to check out the main branch at the beginning of a session and commit all changes at the end of the day, with no messing around with separate branches or staging, because I just want to use it as a backup really.==  
+==Basically, my situation (billy no(-team)-mates) is that I'd like to check out the main branch at the beginning of a session and commit all changes at the end of the day, with no messing around with separate branches or staging, because I just want to use it as a back-up really.==  
 ==Further reading:== ==https://www.atlassian.com/git/tutorials/syncing#:~:text=The%20git%20remote%20command%20lets,direct%20links%20into%20other%20repositories====.==
  
 ### **SITUATION 2: INCOMPLETE STAGING**  

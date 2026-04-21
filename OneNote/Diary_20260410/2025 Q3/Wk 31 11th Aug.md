@@ -40,5 +40,5 @@
 Summary of you experience using version control:
 
 - Using Git to keep projects up to date between my laptop/desktop and the HPC
-- Prior to starting a PhD I was generally using Github to share projects and I have generally used GitLab as the (host?) as backup and for sharing. I followed various snippets from online tutorials when starting and do have a record of how I set up keys and access!
+- Prior to starting a PhD I was generally using Github to share projects and I have generally used GitLab as the (host?) as back-up and for sharing. I followed various snippets from online tutorials when starting and do have a record of how I set up keys and access!
 -

@@ -47,7 +47,7 @@ cssclasses: diary-week
 
 > [!abstract]+ 📋 Plan
 > - [x] Make Michal's corrections
-> - [ ] Run Bonisoli code on several different examples
+> - [x] Run Bonisoli code on several different examples
 
 > [!note]+ 💭 Reflection
 > (0900-1030) Breakfast, bike handlebar struggles, Peaks trip admin
@@ -60,20 +60,37 @@ cssclasses: diary-week
 
 > [!abstract]+ 📋 Plan
 > - [ ] Start running Bonisoli code on different datasets
-> - [ ] Take bike to EDMC
+> - [x] Take bike to EDMC
 > - [ ] Write main body of Butterworth appendix
 
 > [!note]+ 💭 Reflection
-> 
+> (0900-1010) Getting to work + Reading about back-up tools and self-hosted servers... see notes!
+> (1015-1145) Ran the RMS duration calc on other examples. Changed window Hann->Top hat
+> (1145-1215) Tried the wavelet based 'find_rois_cwt' from scikit-maad. It worked well, but it also made me think: could filter ringing actually be an ADVANTAGE by automating the 'post-trigger' step. Hmmmm 
+> (1300-1500) Running various examples through RMS detection and CWT
+> (1515-1615) Bike repair! Only remaining thing is to get a new screw for the stem...
+> (1615-1645) Back to running examples through the code to estimate duration.
 
 ---
 ## Thu 16th Apr
 
 > [!abstract]+ 📋 Plan
-> - Poster checking?
+> - [ ] Poster checking
+> - [ ] Start running new Bonisoli code on different datasets
+> - [ ] Get rid of Mendeley duplicates: https://blog.mendeley.com/2023/08/25/ditch-those-duplicates-with-mendeley-reference-manager/
 
 > [!note]+ 💭 Reflection
-> 
+> (0900-1030) Packing car and getting to work
+> (1030-1140) Trying more Bonisoli duration examples... CWT looks better in terms of separation by max. value or window lengths from
+> (1140-1300) Decided on a window of 8 and threshold of 7 standard deviations. Pasted into a function in spaekit.detectors and started testing on whole files...
+> (1400-1425) Added binary opening to Bonisoli... re-running file-level tests
+>
+> There are one GAZILLION ways that I could determine the duration. Scalogram is kind of good, so is the windowed energy. Both need some level of calibration
+
+>[!caution]+ TODO AFTER LUNCH
+> - [ ] Start a Bonisoli run on the Khait/Calibration datasets (30 mins)
+> - [ ] Make Siul corrections (2hrs)
+
 
 ---
 ## Fri 17th Apr
