@@ -8,10 +8,16 @@ cssclasses: diary-week
 > - 
 
 > [!check]+ ✅ TODO This Week
+<<<<<<< HEAD
 > - Make corrections to Bonisoli code and also continue corrections to Bonisoli method
 > - Change car insurance
 > - Get paintwork fixed
 > - Unlock bike
+=======
+> - 
+> - 
+> - 
+>>>>>>> 15b71c8 (rebase on laptop)
 
 > [!info]+ 🎯 Aims This Week
 > - 
