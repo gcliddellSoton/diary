@@ -11,9 +11,21 @@ cssclasses: diary-week
 > - Clean and upload code to Zenodo and link DOI
 
 > [!check]+ ✅ TODO This Week
+<<<<<<< HEAD
 > - Make Bonisoli method corrections
 > - Generate corrected Bonisoli results (not expecting a big difference)
 > - Make time plan to 18 month report
+=======
+> - Back-up data to hard-drive
+> - Set up daily script that pushes diary to github on laptop+desktop
+> - Move image files to a specific folder in dairy
+> - Get poster ready
+> - Finish Bonisoli section
+
+
+> [!warning]+ 📅 TODO **RIGHT NOW!!!**
+> - 
+>>>>>>> d6c24f7 (...)
 
 > [!info]+ 🎯 Aims This Week
 > 
@@ -41,6 +53,11 @@ cssclasses: diary-week
 > (1045-1230) Looking for Irene's earring, tidying up garden, driving to Southampton
 > (1230-1300) Code tidying in 4_2_event_detection_bonisoli
 > (1400-1515) Started to copy across code for Bonisoli corrections, starting with demonstrations in 4_3_event_detection. Also saw that results in 5_benchmarking seem to have reverted to how they were before I made corrections to how R/P are calculated. They are still correct at commit #8e8508fae9e78375313b1dca264822704337aad7
+> (1530-1640) MK meeting. Very helpful comments!
+> (1645-1715) Chatting with Beth
+> (1715-1815) Sorting out Github repository for Obsidian. I was struggling to push/pull to GitHub and the problem turned out to be because I have 2 GitHub accounts! My ssh public key is on the gcliddellSoton account, so when I pushed, it thought I was gcliddellSoton instead of geoffreyliddell! The solution was to put my diary repository on gcliddellSoton. At the end of my time here I will need to transfer it :)
+
+
 
 ---
 ## Tue 14th Apr
