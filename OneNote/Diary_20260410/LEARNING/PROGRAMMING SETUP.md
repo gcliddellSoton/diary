@@ -276,6 +276,8 @@ Timeshift?
 	- SITUATION 10: CHANGING BACK FROM AN HTTP REMOTE TO THE SSH ONE
 	- SITUATION 11: KEEP GETTING ASKED FOR PASSWORD, EVEN THOUGH IT WORKED FINE BEFORE!
 	- SITUATION 12: I DON'T WANT TO PUSH CHANGES TO TEMPORARY FILES, BUT I ACCIDENTALLY STAGED EVERYTHING
+	- SITUATION 13: I WANT TO REBASE, BUT KEEP ALL LOCAL CHANGES, SO THAT I CAN COMPARE RESULTS BETWEEN MY LOCAL CURRENT HEAD AND THE CURRENT REMOTE HEAD LATER**
+	- SITUATION 14: OBSIDIAN SYNCING
    
 ## Introduction to Git
  
@@ -514,4 +516,8 @@ git rebase –continue
 ```
 In the end I got half way through using the VScode GUI and then got sick of it. I used `git status` to check whether I was currently merging or rebasing (this changes whether you use `--ours` or `--theirs`) then did the rebasing version, I.e. checkout theirs, add all, then continue rebase.
 
---- 
+### SITUATION 14: OBSIDIAN SYNCING
+
+I have been having a go with Obsidian. Unfortunately, it doesn't speak very well between my laptop and desktop and one has to pay for Obsidian Sync to keep a remote notes folder. Instead, I have set up a git repository, for which I use Github as the cloud back-up. Since my laptop doesn't ALWAYS have the university VPN on I also use Github to sync between the two.
+
+On the desktop, I have a dummy app shortcut
