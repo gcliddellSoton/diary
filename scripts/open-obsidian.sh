@@ -1,13 +1,5 @@
 #!/bin/bash
-echo "0 is: $0" > /tmp/obsidian-debug.log
-echo "dirname is: $(dirname "$0")" > /tmp/obsidian-debug.log
-echo "PWD is: $PWD" > /tmp/obsidian-debug.log
-cd "$(dirname "$0")"
-
-echo "after cd..." > /tmp/obsidian-debug.log
-echo "0 is: $0" > /tmp/obsidian-debug.log
-echo "dirname is: $(dirname "$0")" > /tmp/obsidin-debug.log
-echo "PWD is: $PWD" > /tmp/obsidian-debug.log
+cd "$(dirname "$0")" || exit 1
 
 # sync and open
 bash obsidian-sync.sh
