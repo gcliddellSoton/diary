@@ -69,6 +69,7 @@ cssclasses: diary-week
 ## Wed 22nd Apr
 
 > [!todo]+ 📋 Plan
+> - [ ] Merge laptop and desktop diaries...
 > - [ ] Bonisoli corrections
 > - [ ] Rename files in CSEG_3 so that everything is gucchi for a Pure upload!
 > - [ ] AFTER meeting: draw up Lorna's irrigation system diagrams:
