@@ -28,14 +28,19 @@
               "type": "markdown",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "OneNote/Diary_20260410/LEARNING/PROGRAMMING SETUP.md",
 =======
                 "file": "OneNote/Diary_20260410/2026 Q2/Wk16 [13th Apr].md",
 >>>>>>> 511cdd8 (15/04/2026)
+=======
+                "file": "OneNote/Diary_20260410/LEARNING/BASH.md",
+>>>>>>> 476007c (2026-04-21 11:49:57)
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
               "title": "Wk16 [13th Apr]"
@@ -44,11 +49,19 @@
               "title": "PROGRAMMING SETUP"
 >>>>>>> 3fd0b95 (2026-04-21 17:07:49)
 =======
+=======
+>>>>>>> a81e459 (rebase on laptop!)
               "title": "PROGRAMMING SETUP"
 =======
               "title": "Wk16 [13th Apr]"
 >>>>>>> 511cdd8 (15/04/2026)
+<<<<<<< HEAD
 >>>>>>> 15b71c8 (rebase on laptop)
+=======
+=======
+              "title": "BASH"
+>>>>>>> 476007c (2026-04-21 11:49:57)
+>>>>>>> a81e459 (rebase on laptop!)
             }
           }
         ]
@@ -83,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "f-string",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,6 +225,7 @@
 =======
   "active": "f31336aad4862866",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "OneNote/Diary_20260410/LAB/0502 Experimental Plan.md",
     "OneNote/Diary_20260410/2026 Q2/Wk16 [13th Apr].md",
 <<<<<<< HEAD
@@ -262,7 +276,30 @@
 =======
     "OneNote/Diary_20260410/LEARNING/NOTE-TAKING.md",
 >>>>>>> 511cdd8 (15/04/2026)
+<<<<<<< HEAD
 >>>>>>> 15b71c8 (rebase on laptop)
+=======
+=======
+    "OneNote/Diary_20260410/LEARNING/PYTHON.md",
+    "OneNote/Diary_20260410/LEARNING/BASH.md",
+    "OneNote/Diary_20260410/LEARNING/PYTHON ENVIRONMENTS.md",
+    "OneNote/Diary_20260410/LEARNING/PROGRAMMING SETUP.md",
+    "OneNote/Diary_20260410/LEARNING/NOTE-TAKING.md",
+    "OneNote/Diary_20260410/LEARNING/LATEXOVERLEAF.md",
+    "OneNote/Diary_20260410/LEARNING/IDENTIPLANT.md",
+    "OneNote/Diary_20260410/LEARNING/C AND PYTHON.md",
+    "OneNote/Diary_20260410/2026 Q2/Wk17 [20th Apr].md",
+    "OneNote/Diary_20260410/2026 Q2/Wk16 [13th Apr].md",
+    "OneNote/Diary_20260410/2026 Q2/Wk15 [6th Apr].md",
+    "OneNote/Diary_20260410/2026 Q1/2025 WK14.md",
+    "OneNote/Diary_20260410/LEARNING/ARDUINO.md",
+    "OneNote/Diary_20260410/2026 Q1/2025 WK5.md",
+    "OneNote/Diary_20260410/2025 Q2/Wk22 23rd June.md",
+    "OneNote/Diary_20260410/2025 Q2/WK13 21st April.md",
+    "OneNote/Diary_20260410/2025 Q3/Wk 31 11th Aug.md",
+    "OneNote/Diary_20260410/LAB/0502 Experimental Plan.md",
+>>>>>>> 476007c (2026-04-21 11:49:57)
+>>>>>>> a81e459 (rebase on laptop!)
     "OneNote/Diary_20260410/2026 Q2/Wk27 [29th Jun].md",
     "OneNote/Diary_20260410/2026 Q2/Wk26 [22nd Jun].md",
     "OneNote/Diary_20260410/2026 Q2/Wk25 [15th Jun].md",
@@ -273,6 +310,7 @@
 <<<<<<< HEAD
 =======
     "OneNote/Diary_20260410/2026 Q2/Wk20 [11th May].md",
+<<<<<<< HEAD
     "OneNote/Diary_20260410/2026 Q2/Wk19 [4th May].md",
     "OneNote/Diary_20260410/2026 Q2/Wk18 [27th Apr].md",
     "OneNote/Diary_20260410/2026 Q2/Wk17 [20th Apr].md",
@@ -300,6 +338,11 @@
 >>>>>>> d6c24f7 (...)
 =======
 >>>>>>> 039df48 (2026-04-21 10-23-09)
+=======
+    "OneNote/Diary_20260410/2026 Q2",
+    "OneNote/Diary_20260410/2026 Q2/snippets/diary-week.css",
+    "OneNote/Diary_20260410/2026 Q2/snippets",
+>>>>>>> a81e459 (rebase on laptop!)
     "Exported image 20260410112727-0.png",
     "Exported image 20260410112825-9.png",
     "Exported image 20260410112820-7.png",
