@@ -19,13 +19,17 @@
 =======
               "type": "markdown",
               "state": {
-                "file": "OneNote/Diary_20260410/2026 Q2/Wk16 [13th Apr].md",
+                "file": "OneNote/Diary_20260410/LEARNING/PROGRAMMING SETUP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Wk16 [13th Apr]"
 >>>>>>> d6c24f7 (...)
+=======
+              "title": "PROGRAMMING SETUP"
+>>>>>>> 3fd0b95 (2026-04-21 17:07:49)
             }
           }
         ]
@@ -178,16 +182,23 @@
   "lastOpenFiles": [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     "OneNote/Diary_20260410/2026 Q2/Wk14 [30th Mar].md",
 =======
+=======
+    "OneNote/Diary_20260410/2026 Q2/Wk16 [13th Apr].md",
+>>>>>>> 3fd0b95 (2026-04-21 17:07:49)
     "scripts/open-obsidian.sh",
     "scripts/obsidian-sync.sh",
     "scripts",
     "OneNote/Diary_20260410/LEARNING/PROGRAMMING SETUP.md",
     "OneNote/Diary_20260410/2026 Q2/Wk15 [6th Apr].md",
+<<<<<<< HEAD
 >>>>>>> 039df48 (2026-04-21 10-23-09)
     "OneNote/Diary_20260410/2026 Q2/Wk16 [13th Apr].md",
+=======
+>>>>>>> 3fd0b95 (2026-04-21 17:07:49)
     "OneNote/Diary_20260410/2026 Q2/Wk14 [30th Mar].md",
     "OneNote/Diary_20260410/2025 Q2/Wk19 2nd June.md",
     "OneNote/Diary_20260410/2026 Q1/2025 WK14.md",
@@ -245,7 +256,6 @@
     "Juncus - an overview _ ScienceDirect Topics 1.pdf",
     "Juncus - an overview _ ScienceDirect Topics.pdf",
     "OneNote/Diary_20260410/2025 Q2",
-    "OneNote/Diary_20260410/2025 Q1",
     "Untitled.canvas"
   ]
 }
