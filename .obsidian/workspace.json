@@ -20,11 +20,15 @@
             "type": "leaf",
             "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
 =======
+=======
+<<<<<<< HEAD
+>>>>>>> 8b23629 (continuing rebase...?)
               "type": "markdown",
               "state": {
 <<<<<<< HEAD
@@ -61,7 +65,26 @@
 =======
               "title": "BASH"
 >>>>>>> 476007c (2026-04-21 11:49:57)
+<<<<<<< HEAD
 >>>>>>> a81e459 (rebase on laptop!)
+=======
+=======
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+>>>>>>> 4d65b29 (laptop changes!!)
+=======
+              "type": "markdown",
+              "state": {
+                "file": "OneNote/Diary_20260410/2026 Q2/Wk17 [20th Apr].md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wk17 [20th Apr]"
+>>>>>>> 983e38d (laptop)
+>>>>>>> 8b23629 (continuing rebase...?)
             }
           }
         ]
