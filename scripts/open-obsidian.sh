@@ -1,5 +1,5 @@
 #!/bin/bash
-cd "$(dirname "$0")" | exit 1
+cd "$(dirname "$0")"
 
 # sync and open
 bash obsidian-sync.sh
