@@ -56,7 +56,8 @@ cssclasses: diary-week
 ## Thu 23rd Apr
 
 > [!todo]+ 📋 Plan
-> - 1) Bonisoli-CAL results have been redone again, incorporate these. 2) remove the cells in 5_benchmarking.ipynb that run the experiments.
+> - Make notes on what I learnt on Tuesday/Wednesday
+> 1) Bonisoli-CAL results have been redone again, incorporate these. 2) remove the cells in 5_benchmarking.ipynb that run the experiments.
 > - Carry on writing results section
 > - Work out why Obsidian changes have been discarded!! and get laptop merge sorted
 
