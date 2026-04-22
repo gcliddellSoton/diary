@@ -12,7 +12,7 @@ cssclasses: diary-week
 > - 
 > - 
 
-> [!warning]+ 📅 Post 6-Month TODO
+> [!warning]+ 📅 TODO RIGHT NOW!!!
 > - 
 
 > [!info]+ 🎯 Aims This Week
