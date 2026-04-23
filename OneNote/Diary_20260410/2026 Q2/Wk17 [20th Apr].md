@@ -88,6 +88,8 @@ cssclasses: diary-week
 > - (1215-1330) Remove remove redundant cells in 5_benchmarking.ipynb....
 >- (1330-1335) STILL missing one file from rush/barly x bonisoli! deleting tmp files and going again and does seem to be working this time...
 >- I've also just realised that after finishing, the script DOESN't collate the results from the *.out* save files, so overwrites what was done in previous runs!
+>- (1400-1430) More obisidan faff, this time trying to make a wrapper for Windows
+>- (1530-1630) Dynamics meeting: BNN: Car model -> Frequency response, expainability using LIME and SHAP.
 
 
 ---
