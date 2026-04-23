@@ -4,7 +4,7 @@ cd "$(dirname "$0")" || exit 1
 # sync and open
 bash obsidian-sync.sh
 echo "sync on open... $(date '+%Y-%m-%d %H:%M:%S')"
-flatpak run --branch=stable --arch=x86_64 --command=obsidian.sh --file-forwarding md.obsidian.Obsidian @@u %U @@ --vault=.. &
+obsidian || flatpak run --branch=stable --arch=x86_64 --command=obsidian.sh --file-forwarding md.obsidian.Obsidian @@u %U @@ --vault=.. &
 
 wait
 
