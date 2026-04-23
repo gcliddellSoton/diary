@@ -7,7 +7,7 @@ echo "sync on open... $(date '+%Y-%m-%d %H:%M:%S')"
 # Launch Obsidian depending on OS
 if [[ "$OSTYPE" == "msys" || "$OSTYPE" == "cygwin" ]]; then
     # Windows via Git Bash - blocks until Obsidian closes
-    cmd //c start /wait "" Obsidian --vault=..
+    cmd //c start /wait "" obsidian --vault=..
 else
     # Linux via Flatpak - doesn't block, so background + wait
     flatpak run md.obsidian.Obsidian --vault=.. &
