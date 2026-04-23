@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4c7793e76030cf0f",
+        "id": "5a9abb71e23cff18",
         "type": "tabs",
         "children": [
           {
-            "id": "c887be5daa52cb53",
+            "id": "f31336aad4862866",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OneNote/Diary_20260410/LEARNING/PROGRAMMING SETUP.md",
+                "file": "OneNote/Diary_20260410/2026 Q2/Wk16 [13th Apr].md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROGRAMMING SETUP"
+              "title": "Wk16 [13th Apr]"
             }
           }
         ]
@@ -167,26 +167,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c887be5daa52cb53",
+  "active": "f31336aad4862866",
   "lastOpenFiles": [
+    "OneNote/Diary_20260410/LAB/0502 Experimental Plan.md",
     "OneNote/Diary_20260410/2026 Q2/Wk16 [13th Apr].md",
-    "scripts/open-obsidian.sh",
-    "scripts/obsidian-sync.sh",
-    "scripts",
-    "OneNote/Diary_20260410/LEARNING/PROGRAMMING SETUP.md",
-    "OneNote/Diary_20260410/2026 Q2/Wk15 [6th Apr].md",
-    "OneNote/Diary_20260410/2026 Q2/Wk14 [30th Mar].md",
-    "OneNote/Diary_20260410/2025 Q2/Wk19 2nd June.md",
-    "OneNote/Diary_20260410/2026 Q1/2025 WK14.md",
-    "OneNote/Diary_20260410/2026 Q2/Wk18 [27th Apr].md",
-    "OneNote/Diary_20260410/2026 Q2/Wk17 [20th Apr].md",
-    "OneNote/Diary_20260410/2026 Q2 __ v1/2026 Q2.md",
-    "OneNote/Diary_20260410/2026 Q2 __ v1/Wk14 [30th Mar].md",
-    "OneNote/Diary_20260410/2026 Q2 __ v1/Wk15 [6th Apr].md",
-    "OneNote/Diary_20260410/2026 Q2 __ v1/Wk19 [4th May].md",
-    "OneNote/Diary_20260410/2026 Q2 __ v1/Wk17 [20th Apr].md",
-    "OneNote/Diary_20260410/2026 Q2 __ v1/Wk16 [13th Apr].md",
-    "OneNote/Diary_20260410/2026 Q2/2026 Q2.md",
+    "OneNote/Diary_20260410/LEARNING/NOTE-TAKING.md",
     "OneNote/Diary_20260410/2026 Q2/Wk27 [29th Jun].md",
     "OneNote/Diary_20260410/2026 Q2/Wk26 [22nd Jun].md",
     "OneNote/Diary_20260410/2026 Q2/Wk25 [15th Jun].md",
@@ -196,6 +181,19 @@
     "OneNote/Diary_20260410/2026 Q2/Wk21 [18th May].md",
     "OneNote/Diary_20260410/2026 Q2/Wk20 [11th May].md",
     "OneNote/Diary_20260410/2026 Q2/Wk19 [4th May].md",
+    "OneNote/Diary_20260410/2026 Q2/Wk18 [27th Apr].md",
+    "OneNote/Diary_20260410/2026 Q2/Wk17 [20th Apr].md",
+    "OneNote/Diary_20260410/2025 Q2/Wk19 2nd June.md",
+    "OneNote/Diary_20260410/2026 Q1/2025 WK14.md",
+    "OneNote/Diary_20260410/2026 Q2/Wk14 [30th Mar].md",
+    "OneNote/Diary_20260410/2026 Q2/Wk15 [6th Apr].md",
+    "OneNote/Diary_20260410/2026 Q2 __ v1/2026 Q2.md",
+    "OneNote/Diary_20260410/2026 Q2 __ v1/Wk14 [30th Mar].md",
+    "OneNote/Diary_20260410/2026 Q2 __ v1/Wk15 [6th Apr].md",
+    "OneNote/Diary_20260410/2026 Q2 __ v1/Wk19 [4th May].md",
+    "OneNote/Diary_20260410/2026 Q2 __ v1/Wk17 [20th Apr].md",
+    "OneNote/Diary_20260410/2026 Q2 __ v1/Wk16 [13th Apr].md",
+    "OneNote/Diary_20260410/2026 Q2/2026 Q2.md",
     "OneNote/Diary_20260410/2026 Q2",
     "OneNote/Diary_20260410/2026 Q2/snippets/diary-week.css",
     "OneNote/Diary_20260410/2026 Q2/snippets",
@@ -214,6 +212,9 @@
     "Juncus - an overview _ ScienceDirect Topics 1.pdf",
     "Juncus - an overview _ ScienceDirect Topics.pdf",
     "OneNote/Diary_20260410/2025 Q2",
+    "OneNote/Diary_20260410/2025 Q1",
+    "OneNote/Diary_20260410/LEARNING",
+    "OneNote/Diary_20260410/LAB",
     "Untitled.canvas"
   ]
 }
