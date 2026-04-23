@@ -4,7 +4,15 @@ cd "$(dirname "$0")" || exit 1
 # sync and open
 bash obsidian-sync.sh
 echo "sync on open... $(date '+%Y-%m-%d %H:%M:%S')"
-obsidian --vault=.. & || flatpak run --branch=stable --arch=x86_64 --command=obsidian.sh --file-forwarding md.obsidian.Obsidian @@u %U @@ --vault=.. &
+# Launch Obsidian depending on OS
+if [[ "$OSTYPE" == "msys" || "$OSTYPE" == "cygwin" ]]; then
+    # Windows via Git Bash - blocks until Obsidian closes
+    cmd //c start /wait "" "C:/Users/YourName/AppData/Local/Obsidian/Obsidian.exe" --vault=..
+else
+    # Linux via Flatpak - doesn't block, so background + wait
+    flatpak run md.obsidian.Obsidian --vault=.. &
+    wait $!
+fi
 
 wait
 
