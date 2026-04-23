@@ -8,10 +8,10 @@ cssclasses: diary-week
 > - 
 
 > [!check]+ ✅ TODO This Week
-> - Make corrections to Bonisoli code and also continue corrections to Bonisoli method
-> - Change car insurance
-> - Get paintwork fixed
-> - Unlock bike
+> - [ ] Make corrections to Bonisoli code and also continue corrections to Bonisoli method
+> - [x] Change car insurance
+> - [ ] Get paintwork fixed
+> - [x] Unlock bike
 
 > [!info]+ 🎯 Aims This Week
 > - 
@@ -24,8 +24,8 @@ cssclasses: diary-week
 ## Mon 20th Apr
 
 > [!todo]+ 📋 Plan
-> - [ ] Michal & Siul corrections
-> - [ ] Code Bonisoli example
+> - [x] Michal & Siul corrections
+> - [x] Code Bonisoli example
 > - [x] Submit timesheets
 
 > [!note]+ 💭 Reflection
@@ -83,6 +83,7 @@ cssclasses: diary-week
 
 
 > [!note]+ 💭 Reflection
+> - Car insurance complete!!!
 > - (0900-1100) Banging head against wall with Obsidian+Git. Became a bit more comfortable with the commands `git branch` and `git checkout` etc. as well as resolving conflicts during a merge/rebase
 > - (1100-1215) Set the Bonisoli-Rush and Bonisoli-Barley tasks going again (was missing one file in each)
 > - (1215-1330) Remove remove redundant cells in 5_benchmarking.ipynb....
@@ -97,7 +98,12 @@ cssclasses: diary-week
 ## Fri 24th Apr
 
 > [!todo]+ 📋 Plan
-> - 
+> - [ ] Move all the example signal plots into one big figure
+> - [ ] Print and read through Bonisoli Method and Bonisoli Results, then re-write STFT equation in Klaminder to be more legible
+> - [ ] Integrate new rush/barley x bonisoli results from HPC run after double-checking files! (i.e. run 5_benchmarking.ipynb)
+> - [ ] Look at timeplan to 18 months!
+
+
 
 > [!note]+ 💭 Reflection
 > 

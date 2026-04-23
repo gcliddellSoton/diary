@@ -5,16 +5,13 @@ cssclasses: diary-week
 *27th Apr – 3rd May 2026*
 
 > [!abstract]+ 🔭 Long-Term Goals
-> - 
-
-> [!warning]+ 📅 Post 6-Month TODO
-> - 
+> - Complete draft and submit
+> - Do new experiment
+> - Write 18 month report
 
 > [!info]+ 🎯 Aims This Week
-> - 
-> - 
-> - 
-
+> - Complete Klaminder method and results section
+> - Start QPD section
 
 ---
 
