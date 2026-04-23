@@ -8,22 +8,10 @@ cssclasses: diary-week
 > - 
 
 > [!check]+ ✅ TODO This Week
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> a81e459 (rebase on laptop!)
 > - Make corrections to Bonisoli code and also continue corrections to Bonisoli method
 > - Change car insurance
 > - Get paintwork fixed
 > - Unlock bike
-<<<<<<< HEAD
-=======
-> - 
-> - 
-> - 
->>>>>>> 15b71c8 (rebase on laptop)
-=======
->>>>>>> a81e459 (rebase on laptop!)
 
 > [!info]+ 🎯 Aims This Week
 > - 
@@ -87,7 +75,9 @@ cssclasses: diary-week
 ## Thu 23rd Apr
 
 > [!todo]+ 📋 Plan
-> - 
+> - 1) Bonisoli-CAL results have been redone again, incorporate these. 2) remove the cells in 5_benchmarking.ipynb that run the experiments.
+> - Carry on writing results section
+
 
 > [!note]+ 💭 Reflection
 > 
