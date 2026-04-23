@@ -518,6 +518,8 @@ git rebase –continue
 ```
 In the end I got half way through using the VScode GUI and then got sick of it. I used `git status` to check whether I was currently merging or rebasing (this changes whether you use `--ours` or `--theirs`) then did the rebasing version, I.e. checkout theirs, add all, then continue rebase.
 
+[23/04/2026] I have just had another nightmare over this while setting up Obsidian. I had accidentally made different branches on my laptop and desktop (master and main), which I was committing to separately. The thing that eventually worked was to `git fetch origin` then `git checkout main` as I had both master and main.
+
 ### SITUATION 14: OBSIDIAN SYNCING
 
 I have been having a go with Obsidian. Unfortunately, it doesn't speak very well between my laptop and desktop and one has to pay for Obsidian Sync to keep a remote notes folder. Instead, I have set up a git repository, for which I use Github as the cloud back-up. Since my laptop doesn't ALWAYS have the university VPN on I also use Github to sync between the two.
