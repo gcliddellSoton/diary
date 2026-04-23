@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OneNote/Diary_20260410/LEARNING/PROGRAMMING SETUP.md",
+                "file": "OneNote/Diary_20260410/2026 Q2/Wk17 [20th Apr].md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROGRAMMING SETUP"
+              "title": "Wk17 [20th Apr]"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OneNote/Diary_20260410/LEARNING/PROGRAMMING SETUP.md",
+                "file": "OneNote/Diary_20260410/2026 Q2/Wk17 [20th Apr].md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PROGRAMMING SETUP"
+              "title": "Backlinks for Wk17 [20th Apr]"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OneNote/Diary_20260410/LEARNING/PROGRAMMING SETUP.md",
+                "file": "OneNote/Diary_20260410/2026 Q2/Wk17 [20th Apr].md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from PROGRAMMING SETUP"
+              "title": "Outgoing links from Wk17 [20th Apr]"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OneNote/Diary_20260410/LEARNING/PROGRAMMING SETUP.md",
+                "file": "OneNote/Diary_20260410/2026 Q2/Wk17 [20th Apr].md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PROGRAMMING SETUP"
+              "title": "Outline of Wk17 [20th Apr]"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "9adf79ddea662e95",
   "lastOpenFiles": [
+    "OneNote/Diary_20260410/LEARNING/PROGRAMMING SETUP.md",
     "OneNote/Diary_20260410/2026 Q2/Wk17 [20th Apr].md"
   ]
 }

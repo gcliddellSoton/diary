@@ -43,7 +43,7 @@ cssclasses: diary-week
 > - [x] Check whether Bonisoli code has actually run
 > - [x] Re-run it if not
 > - [x] Make adjustments to Bonisoli diagram to show external sounds
-> - [ ] Call NFU Mutual after work
+> - [x] Call NFU Mutual after work
 
 
 > [!note]+ 💭 Reflection
@@ -75,14 +75,20 @@ cssclasses: diary-week
 ## Thu 23rd Apr
 
 > [!todo]+ 📋 Plan
-> - Make notes on what I learnt on Tuesday/Wednesday
-> 1) Bonisoli-CAL results have been redone again, incorporate these. 2) remove the cells in 5_benchmarking.ipynb that run the experiments.
-> - Carry on writing results section
-> - Work out why Obsidian changes have been discarded!! and get laptop merge sorted
+> - [ ] Make notes on what I learnt on Tuesday/Wednesday
+> - [ ] Bonisoli-CAL results have been redone again, incorporate these
+> - [x] Remove the cells in 5_benchmarking.ipynb that run the experiments.
+> - [ ] Carry on writing results section
+> - [x] Work out why Obsidian changes have been discarded!! and get laptop merge sorted
 
 
 > [!note]+ 💭 Reflection
-> 
+> - (0900-1100) Banging head against wall with Obsidian+Git. Became a bit more comfortable with the commands `git branch` and `git checkout` etc. as well as resolving conflicts during a merge/rebase
+> - (1100-1215) Set the Bonisoli-Rush and Bonisoli-Barley tasks going again (was missing one file in each)
+> - (1215-1330) Remove remove redundant cells in 5_benchmarking.ipynb....
+>- (1330-1335) STILL missing one file from rush/barly x bonisoli! deleting tmp files and going again and does seem to be working this time...
+>- I've also just realised that after finishing, the script DOESN't collate the results from the *.out* save files, so overwrites what was done in previous runs!
+
 
 ---
 
