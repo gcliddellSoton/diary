@@ -11,14 +11,9 @@ cssclasses: diary-week
 > - Clean and upload code to Zenodo and link DOI
 
 > [!check]+ ✅ TODO This Week
-<<<<<<< HEAD
-<<<<<<< HEAD
 > - Make Bonisoli method corrections
 > - Generate corrected Bonisoli results (not expecting a big difference)
 > - Make time plan to 18 month report
-=======
-=======
->>>>>>> 15b71c8 (rebase on laptop)
 > - Back-up data to hard-drive
 > - Set up daily script that pushes diary to github on laptop+desktop
 > - Move image files to a specific folder in dairy
@@ -27,16 +22,9 @@ cssclasses: diary-week
 
 
 > [!warning]+ 📅 TODO **RIGHT NOW!!!**
-> - 
-<<<<<<< HEAD
->>>>>>> d6c24f7 (...)
-=======
-=======
 > - Make Bonisoli method corrections
 > - Generate corrected Bonisoli results (not expecting a big difference)
 > - Make time plan to 18 month report
->>>>>>> 511cdd8 (15/04/2026)
->>>>>>> 15b71c8 (rebase on laptop)
 
 > [!info]+ 🎯 Aims This Week
 > 
@@ -68,19 +56,12 @@ cssclasses: diary-week
 > (1645-1715) Chatting with Beth
 > (1715-1815) Sorting out Github repository for Obsidian. I was struggling to push/pull to GitHub and the problem turned out to be because I have 2 GitHub accounts! My ssh public key is on the gcliddellSoton account, so when I pushed, it thought I was gcliddellSoton instead of geoffreyliddell! The solution was to put my diary repository on gcliddellSoton. At the end of my time here I will need to transfer it :)
 
-
-
 ---
 ## Tue 14th Apr
 
 > [!abstract]+ 📋 Plan
-<<<<<<< HEAD
-<<<<<<< HEAD
 > - [x] Make Michal's corrections
 > - [x] Run Bonisoli code on several different examples
-=======
-=======
->>>>>>> 15b71c8 (rebase on laptop)
 > - [ ] (0900-1130) Make Bonisoli code corrections
 > - [ ] Ask Michelle about refunding Nottingham costs (+ post on Blablacar + buy blinds)
 > - [ ] Bicycle fork to EDMC??
@@ -92,21 +73,6 @@ cssclasses: diary-week
 >- [ ] Run code on several small examples
 >- [ ] Run on Khait, and Calibration using 5_benchmarking
 >- [ ] Run on BAR/RUS using corresponding scripts
-<<<<<<< HEAD
->>>>>>> 039df48 (2026-04-21 10-23-09)
-=======
-=======
-> - [x] Make Michal's corrections
-<<<<<<< HEAD
-> - [ ] Run Bonisoli code on several different examples
->>>>>>> 511cdd8 (15/04/2026)
-<<<<<<< HEAD
->>>>>>> 15b71c8 (rebase on laptop)
-=======
-=======
-> - [x] Run Bonisoli code on several different examples
->>>>>>> 476007c (2026-04-21 11:49:57)
->>>>>>> a81e459 (rebase on laptop!)
 
 > [!note]+ 💭 Reflection
 > (0900-1030) Breakfast, bike handlebar struggles, Peaks trip admin
@@ -119,15 +85,7 @@ cssclasses: diary-week
 
 > [!abstract]+ 📋 Plan
 > - [ ] Start running Bonisoli code on different datasets
-<<<<<<< HEAD
-<<<<<<< HEAD
 > - [x] Take bike to EDMC
-=======
-> - [ ] Take bike to EDMC
->>>>>>> 15b71c8 (rebase on laptop)
-=======
-> - [x] Take bike to EDMC
->>>>>>> a81e459 (rebase on laptop!)
 > - [ ] Write main body of Butterworth appendix
 
 > [!note]+ 💭 Reflection
@@ -142,19 +100,9 @@ cssclasses: diary-week
 ## Thu 16th Apr
 
 > [!abstract]+ 📋 Plan
-<<<<<<< HEAD
-<<<<<<< HEAD
 > - [ ] Poster checking
 > - [ ] Start running new Bonisoli code on different datasets
 > - [ ] Get rid of Mendeley duplicates: https://blog.mendeley.com/2023/08/25/ditch-those-duplicates-with-mendeley-reference-manager/
-=======
-> - Poster checking?
->>>>>>> 15b71c8 (rebase on laptop)
-=======
-> - [ ] Poster checking
-> - [ ] Start running new Bonisoli code on different datasets
-> - [ ] Get rid of Mendeley duplicates: https://blog.mendeley.com/2023/08/25/ditch-those-duplicates-with-mendeley-reference-manager/
->>>>>>> a81e459 (rebase on laptop!)
 
 > [!note]+ 💭 Reflection
 > (0900-1030) Packing car and getting to work
