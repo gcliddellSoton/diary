@@ -11,10 +11,14 @@
             "id": "6a0b5b3486b1679d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "OneNote/Diary_20260410/2026 Q2/Wk18 [27th Apr].md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Wk18 [27th Apr]"
             }
           }
         ]
@@ -168,8 +172,8 @@
   },
   "active": "6a0b5b3486b1679d",
   "lastOpenFiles": [
-    "OneNote/Diary_20260410/2026 Q2/Wk18 [27th Apr].md",
     "OneNote/Diary_20260410/2026 Q2/Wk17 [20th Apr].md",
+    "OneNote/Diary_20260410/2026 Q2/Wk18 [27th Apr].md",
     "OneNote/Diary_20260410/LEARNING/PROGRAMMING SETUP.md"
   ]
 }
