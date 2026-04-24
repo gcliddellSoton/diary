@@ -8,7 +8,7 @@ cssclasses: diary-week
 > - 
 
 > [!check]+ ✅ TODO This Week
-> - [ ] Make corrections to Bonisoli code and also continue corrections to Bonisoli method
+> - [x] Make corrections to Bonisoli code and also continue corrections to Bonisoli method
 > - [x] Change car insurance
 > - [ ] Get paintwork fixed
 > - [x] Unlock bike
@@ -98,10 +98,16 @@ cssclasses: diary-week
 ## Fri 24th Apr
 
 > [!todo]+ 📋 Plan
-> - [ ] Move all the example signal plots into one big figure
-> - [ ] Print and read through Bonisoli Method and Bonisoli Results, then re-write STFT equation in Klaminder to be more legible
-> - [ ] Integrate new rush/barley x bonisoli results from HPC run after double-checking files! (i.e. run 5_benchmarking.ipynb)
+> - [x] Move all the example signal plots into one big figure
+> - [x] Print and read through Bonisoli Method and Bonisoli Results, then re-write STFT equation in Klaminder to be more legible
+> - [x] Integrate new rush/barley x bonisoli results from HPC run after double-checking files! (i.e. run 5_benchmarking.ipynb)
 > - [ ] Look at timeplan to 18 months!
+
+>[!caution]+ HOME TODO
+> - [ ] Make comments on dad's website
+> - [ ] Call Lorna!
+> - [ ] Pay for hut
+
 
 
 

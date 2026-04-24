@@ -12,6 +12,17 @@ cssclasses: diary-week
 > [!info]+ 🎯 Aims This Week
 > - Complete Klaminder method and results section
 > - Start QPD section
+> - Timeplan next experiments...
+
+>[!caution]+ Next Article possibilities
+|  Topic  |  Pros  |  Cons |
+|-------|-----------|--------|
+| Acoustic modelling | Easy start-up | Would rather go work at MacDonald's |
+| Rhubarb | Fun idea | We're past rhubarb season |
+| Random plant explorations | Potentially useful | Been done before |
+| Cross-correlation method refinement | On a par with working at MacDonald's | Hard |
+
+
 
 ---
 
