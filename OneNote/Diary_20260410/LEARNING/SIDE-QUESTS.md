@@ -7,3 +7,8 @@
 6. Estimating root architecture from limited root observations with MC methods
 7. Grant application: microfluidic devices for monitoring nitrate in fertigation systems
 8. Monitoring stomatal aperture continuously
+
+# HOME SIDE-QUESTS
+
+- Walnut cracker
+- Lemon tree water pump: plug into mains and add light/water sensors

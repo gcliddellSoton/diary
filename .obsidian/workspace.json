@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OneNote/Diary_20260410/2026 Q2/Wk18 [27th Apr].md",
+                "file": "OneNote/Diary_20260410/LEARNING/LATEXOVERLEAF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wk18 [27th Apr]"
+              "title": "LATEXOVERLEAF"
             }
           }
         ]
@@ -166,14 +166,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-importer:Open Importer": false
+      "bases:Create new base": false
     }
   },
   "active": "6a0b5b3486b1679d",
   "lastOpenFiles": [
-    "OneNote/Diary_20260410/2026 Q2/Wk17 [20th Apr].md",
+    "OneNote/Diary_20260410/LEARNING/NOTE-TAKING.md",
+    "OneNote/Diary_20260410/HOME/WALNUT CRACKER PLAN.md",
+    "OneNote/Diary_20260410/HOME/drawing.svg",
+    "OneNote/Diary_20260410/LEARNING/SIDE-QUESTS.md",
     "OneNote/Diary_20260410/2026 Q2/Wk18 [27th Apr].md",
+    "scripts/opn-obsidian.txt",
+    "scripts/New Text Document.txt",
+    "OneNote/Diary_20260410/2026 Q2/Wk17 [20th Apr].md",
     "OneNote/Diary_20260410/LEARNING/PROGRAMMING SETUP.md"
   ]
 }

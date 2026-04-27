@@ -7,7 +7,7 @@ Packages with lots of options to learn:
 - geometry
 - graphicx
 - wrapfig
-- subfig
+- subfig - possibly outdated? subcaption/subfigure both 
  
 Small but necessary packages:
 - amsmath
