@@ -31,7 +31,7 @@ Most of the rushes in the chamber are dying, even though the ones at home are st
 - Book chamber for 4 weeks time (1 week prior to leaving!)
 - Continue watering the rushes as before and explain what I would do next time (may be worth doing another ad-hoc 'test propagation' in the chamber using bigger plants but the same pot/compost/watering regime
 - GRAPHS    
-![Exported image](Exported%20image%2020260410113532-0.png)     
+![Exported image](imgs/Exported%20image%2020260410113532-0.png)     
 
 **9 Month Review Outline**
  
@@ -103,7 +103,7 @@ Most of the rushes in the chamber are dying, even though the ones at home are st
 - Continue watering the rushes as before and explain what I would do next time (may be worth doing another ad-hoc 'test propagation' in the chamber using bigger plants but the same pot/compost/watering regime
 - Finish making the graphs that I outlined last week (did not try to get this part done this week!)
 
-![Exported image](Exported%20image%2020260410113533-1.png)
+![Exported image](imgs/Exported%20image%2020260410113533-1.png)
 
     
 **================================================**  

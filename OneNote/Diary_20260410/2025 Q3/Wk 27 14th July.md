@@ -75,7 +75,7 @@ an_lk = (1 - λ * ((1/(SNR_est + 1))^β₁))^β₂
  
 Description from docstring in Github...  
 [https://github.com/audacity/audacity/blob/master/au3/libraries/lib-builtin-effects/NoiseReductionBase.cpp](https://github.com/audacity/audacity/blob/master/au3/libraries/lib-builtin-effects/NoiseReductionBase.cpp)
- ![Exported image](Exported%20image%2020260410113525-0.png)
+ ![Exported image](imgs/Exported%20image%2020260410113525-0.png)
 
 **9 Month Review Outline**
  

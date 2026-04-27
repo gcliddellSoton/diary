@@ -20,4 +20,4 @@ Routine Lab Ordering!
 1. Went through word doc making comments. Discussed what the outcomes of the experiment might be and how to make sure they are well-defined.  
 2. Discussed controls in more depth. Using 1 microphone to record 1 pot would reduce recording time, but need some kind of demonstration that the cross-talk between microphones is minimal.   3. Easter break admin also covered
       
-![Exported image](Exported%20image%2020260410113353-2.png)
+![Exported image](imgs/Exported%20image%2020260410113353-2.png)

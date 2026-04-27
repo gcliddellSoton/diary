@@ -9,7 +9,7 @@
     
 Quite worried about the amount of noise on Ch1…
 
-![Exported image](Exported%20image%2020260410113015-0.png)  
+![Exported image](imgs/Exported%20image%2020260410113015-0.png)  
 
 Changed to having the microphones either side of the plant
  

@@ -1,4 +1,4 @@
-![Exported image](Exported%20image%2020260410113217-0.png)
+![Exported image](imgs/Exported%20image%2020260410113217-0.png)
 
 **CRUCIFERACEAE!!**
 

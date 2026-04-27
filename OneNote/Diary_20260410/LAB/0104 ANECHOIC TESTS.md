@@ -19,7 +19,7 @@
 
 - Buzzer with 5V from Arduino, which is in turn powered by 12V from lamp psu from lab
 - Placed on pedestal. Distance from mic to buzzer measured as 30+/-1 cm
-       ![Exported image](Exported%20image%2020260410112945-0.jpeg)      
+       ![Exported image](imgs/Exported%20image%2020260410112945-0.jpeg)      
 **THE BASICS: GETTING A 1HR RECORDING!**
  
 - Records past 999s fine (observed in program, but not in file) - Program stopped by 26 minutes - Recording no. 60 will be run for 20 minutes with checking and then will be ENDED.
@@ -57,4 +57,4 @@ PROCEDURE:
 - Record sequentially treatment 1, 2, 3 etc.
 - Swap Mics between cables every 2 repeats
 - Trim naively using only the first x samples  
-![Exported image](Exported%20image%2020260410112948-1.png) ![Exported image](Exported%20image%2020260410112953-2.png)
+![Exported image](imgs/Exported%20image%2020260410112948-1.png) ![Exported image](imgs/Exported%20image%2020260410112953-2.png)

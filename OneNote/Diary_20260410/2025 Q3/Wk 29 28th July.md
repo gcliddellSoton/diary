@@ -38,13 +38,13 @@
 **Not Started**
                      
 
-![Exported image](Exported%20image%2020260410113538-1.png) ![Exported image](Exported%20image%2020260410113540-2.png) ![Exported image](Exported%20image%2020260410113542-3.png) ![Exported image](Exported%20image%2020260410113545-4.png)
+![Exported image](imgs/Exported%20image%2020260410113538-1.png) ![Exported image](imgs/Exported%20image%2020260410113540-2.png) ![Exported image](imgs/Exported%20image%2020260410113542-3.png) ![Exported image](imgs/Exported%20image%2020260410113545-4.png)
 
 Audacity
 
 Audacity Translation
 
-![Exported image](Exported%20image%2020260410113550-5.png)
+![Exported image](imgs/Exported%20image%2020260410113550-5.png)
 
 Slow for a 1 minute clip!
  

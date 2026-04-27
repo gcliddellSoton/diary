@@ -33,7 +33,7 @@ Did not do well:
  
 Conservation moss planting - [https://www.mossy.earth/projects](https://www.mossy.earth/projects)
    
-![Exported image](Exported%20image%2020260410113356-0.jpeg)
+![Exported image](imgs/Exported%20image%2020260410113356-0.jpeg)
 
 **Meeting Agenda**
 

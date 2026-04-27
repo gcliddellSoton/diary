@@ -31,4 +31,4 @@ Alongside the cuttings:
 |153/154|Old plants trimmed|||
  
 Not sure what these graphs are supposed to demonstrate:
- ![Exported image](Exported%20image%2020260410113021-0.png) ![Exported image](Exported%20image%2020260410113022-1.png)
+ ![Exported image](imgs/Exported%20image%2020260410113021-0.png) ![Exported image](imgs/Exported%20image%2020260410113022-1.png)

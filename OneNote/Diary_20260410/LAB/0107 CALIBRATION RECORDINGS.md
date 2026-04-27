@@ -1,94 +1,94 @@
 \> [!caution] This page contained a drawing which was not converted.   
  
 Picoscope generates 4Vpp :
- ![Exported image](Exported%20image%2020260410113029-0.png)   
+ ![Exported image](imgs/Exported%20image%2020260410113029-0.png)   
 Placed source and receiver at 8cm distance and set Picoscope Generator to 500mV amplitude. 0.5 x 20 = 10Vpp (and 300kHz). This produced the following output:
- ![Exported image](Exported%20image%2020260410113030-1.png)  
+ ![Exported image](imgs/Exported%20image%2020260410113030-1.png)  
 
 500mV (i.e. +10Vpk) in gives 80mV out. In the previous thing, +2Vpk gave +150mVpk ([calibrationLabBook.xlsx](https://sotonac-my.sharepoint.com/:x:/r/personal/gcl1r25_soton_ac_uk/Documents/Documents/Projects/The%20BAT%20Rush/data/calibrationLabBook.xlsx?d=we4f1ef69e5e440b289391ec5e006e0d6&csf=1&web=1&e=wTjfq8)). However, this was at a different distance!! Move them to 2.5cm apart (measured from the most forward point on the iris diaphragm attached to the sensor
- ![Exported image](Exported%20image%2020260410113031-2.png)  
+ ![Exported image](imgs/Exported%20image%2020260410113031-2.png)  
 
 Moving back to around 3.5cm…
- ![Exported image](Exported%20image%2020260410113032-3.png)  
+ ![Exported image](imgs/Exported%20image%2020260410113032-3.png)  
 
 To 4cm….
- ![Exported image](Exported%20image%2020260410113034-4.png)     
+ ![Exported image](imgs/Exported%20image%2020260410113034-4.png)     
 
 Starting test 2cm to 12cm at 0.5cm intervals. 1Vpk at Picoscope at 30kHz. For 12cm for example, measure 13cm between the iris diaphragms.
  
 12cm:
 
-![Exported image](Exported%20image%2020260410113039-5.png)  
+![Exported image](imgs/Exported%20image%2020260410113039-5.png)  
 
 11.5cm
 
-![Exported image](Exported%20image%2020260410113040-6.png)
+![Exported image](imgs/Exported%20image%2020260410113040-6.png)
 
 11cm
 
-![Exported image](Exported%20image%2020260410113043-7.png)
+![Exported image](imgs/Exported%20image%2020260410113043-7.png)
 
 10.5cm
 
-![Exported image](Exported%20image%2020260410113044-8.png)   
+![Exported image](imgs/Exported%20image%2020260410113044-8.png)   
 10cm
 
-![Exported image](Exported%20image%2020260410113045-9.png)  
+![Exported image](imgs/Exported%20image%2020260410113045-9.png)  
 
 9.5cm
 
-![Exported image](Exported%20image%2020260410113046-10.png)  
+![Exported image](imgs/Exported%20image%2020260410113046-10.png)  
 
 9cm
 
-![Exported image](Exported%20image%2020260410113047-11.png)  
+![Exported image](imgs/Exported%20image%2020260410113047-11.png)  
 
 8.5cm
 
-![Exported image](Exported%20image%2020260410113051-12.png)  
+![Exported image](imgs/Exported%20image%2020260410113051-12.png)  
 
 8cm
 
-![Exported image](Exported%20image%2020260410113052-13.png)  
+![Exported image](imgs/Exported%20image%2020260410113052-13.png)  
 
 7.5cm
 
-![Exported image](Exported%20image%2020260410113054-14.png)  
+![Exported image](imgs/Exported%20image%2020260410113054-14.png)  
 
 7cm
 
-![Exported image](Exported%20image%2020260410113055-15.png)   
+![Exported image](imgs/Exported%20image%2020260410113055-15.png)   
 6.5cm
- ![Exported image](Exported%20image%2020260410113056-16.png)  
+ ![Exported image](imgs/Exported%20image%2020260410113056-16.png)  
 
 6cm
- ![Exported image](Exported%20image%2020260410113057-17.png)  
+ ![Exported image](imgs/Exported%20image%2020260410113057-17.png)  
 
 ???5.5cm???
 
-![Exported image](Exported%20image%2020260410113058-18.png)  
+![Exported image](imgs/Exported%20image%2020260410113058-18.png)  
 
 5cm
- ![Exported image](Exported%20image%2020260410113105-19.png)  
+ ![Exported image](imgs/Exported%20image%2020260410113105-19.png)  
 
 4.5cm
- ![Exported image](Exported%20image%2020260410113106-20.png)  
+ ![Exported image](imgs/Exported%20image%2020260410113106-20.png)  
 
 4cm
- ![Exported image](Exported%20image%2020260410113108-21.png)  
+ ![Exported image](imgs/Exported%20image%2020260410113108-21.png)  
 
 3.5cm
- ![Exported image](Exported%20image%2020260410113110-22.png)  
+ ![Exported image](imgs/Exported%20image%2020260410113110-22.png)  
 
 3cm
- ![Exported image](Exported%20image%2020260410113111-23.png)  
+ ![Exported image](imgs/Exported%20image%2020260410113111-23.png)  
 
 2.5cm
- ![Exported image](Exported%20image%2020260410113113-24.png)  
+ ![Exported image](imgs/Exported%20image%2020260410113113-24.png)  
 
 2cm
 
-![Exported image](Exported%20image%2020260410113114-25.png)        
+![Exported image](imgs/Exported%20image%2020260410113114-25.png)        
 
 Set up cm16 microphone 4.5cm from the source. USG Gain = 1
  
@@ -187,14 +187,14 @@ REFLECTIONS:
     
 The 'Toggle' Checkbox highlighted in red changes the behaviour of the PHYSICAL switch, whether it acts like a 'momentary' switch or a 'single throw or latching' switch. Then the dropdown highlighted in yellow, changes the recording response when the button is pressed or the button signal is applied.
 
-![Exported image](Exported%20image%2020260410113118-26.png)      
+![Exported image](imgs/Exported%20image%2020260410113118-26.png)      
 Assessed situation: have some data for distance/angle, but missing BAT detector stuff, so set it up again on the microphone stand (new mounting of the Q-Amp!)  
 Firing off a blip, there did seem to be a signal, but it was barely distinguishable from noise, so it may be necessary to get a good number of identical events to be sure!!
- ![Exported image](Exported%20image%2020260410113120-27.png)  
-![Exported image](Exported%20image%2020260410113122-28.png)  
+ ![Exported image](imgs/Exported%20image%2020260410113120-27.png)  
+![Exported image](imgs/Exported%20image%2020260410113122-28.png)  
 
 Unplugged UltraSoundGate and now Channel A (BAT Detector shows periodic noise!) It's at 50Hz 0.045/343 = 0.0001
- ![Exported image](Exported%20image%2020260410113123-29.png)   
+ ![Exported image](imgs/Exported%20image%2020260410113123-29.png)   
 - Recorded the 6 blips at 30kHz. Separate files. Now want to collect for 2V in order to have a 2-point calibration!
  
 - Ext trigger is now firing willy-nilly and no idea why.
@@ -228,12 +228,12 @@ in the main tab, then got to Trigger, switch it to Manual, press the button to c
 Encountered the same 50Hz noise problem as the nearest image above! Tried everything to do with separating signal cables  
 from mains, putting the Picoscope in different position etc. but was also noticed that one of the Avisoft microphone was  
 recording some weird noise patterns:
- ![Exported image](Exported%20image%2020260410113124-30.png)  
+ ![Exported image](imgs/Exported%20image%2020260410113124-30.png)  
 
 Clearly it was the V-Pole that was making the noise. This wasn't an issue before because the V-Pole was placed inside a plastic container hung from  
 the Aluminium frame and this may have been enough to attenuate the vibrations. Another way to fix this is to wrap the V-Pole in some acoustic foam.  
 After the foam, the signals looked like this:
- ![Exported image](Exported%20image%2020260410113126-31.png)  
+ ![Exported image](imgs/Exported%20image%2020260410113126-31.png)  
 
 showing a completely different noise pattern of around 742kHz, but possibly even louder than before!!  
 Then taking the foam off again, the noise didn't return, so that can't have been the issue anyway.  
