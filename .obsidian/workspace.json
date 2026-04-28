@@ -11,10 +11,14 @@
             "id": "6a0b5b3486b1679d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "OneNote/2026 Q2/Wk18 [27th Apr].md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Wk18 [27th Apr]"
             }
           }
         ]
@@ -166,53 +170,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9ee2edc90112da43",
+  "active": "6a0b5b3486b1679d",
   "lastOpenFiles": [
-    "OneNote/LEARNING/PYTHON ENVIRONMENTS.md",
-    "OneNote/LEARNING/UNICODE CHARACTERS.md",
-    "OneNote/LEARNING/SoTEACH.md",
-    "OneNote/LEARNING/STUDENT RESOURCESSYLLABUS.md",
-    "OneNote/LEARNING/STATISTICS.md",
-    "OneNote/LEARNING/PYTHON.md",
-    "OneNote/LEARNING/SIDE-QUESTS.md",
-    "OneNote/LEARNING/PROGRAMMING SETUP.md",
-    "OneNote/LEARNING/RASPBERRY PI.md",
-    "OneNote/LEARNING/NOTE-TAKING.md",
-    "OneNote/LEARNING/IDENTIPLANT.md",
-    "OneNote/LEARNING/LATEXOVERLEAF.md",
-    "OneNote/LEARNING/C AND PYTHON.md",
-    "OneNote/LEARNING/BASH.md",
-    "OneNote/LEARNING/ARDUINO.md",
-    "OneNote/LEARNING",
-    "OneNote/LAB/1004 ANECHOIC XPMT.md",
-    "OneNote/LAB/29052025 GRANT WORKSHOP.md",
-    "OneNote/LAB/1702 Directivity Experiment.md",
-    "OneNote/LAB/1403 EGG XPMT.md",
-    "OneNote/LAB/1404 ANECHOIC XPMT.md",
-    "OneNote/LAB/0304 ANECHOIC TESTS.md",
-    "OneNote/LAB/1004 TAKE-OUTS FROM MINI EGG-PROJECT.md",
-    "OneNote/LAB/0107 CALIBRATION RECORDINGS.md",
-    "OneNote/LAB/0906 SHOPPING LIST.md",
-    "OneNote/LAB/0605 EQUIPMENT.md",
-    "OneNote/LAB/0502 Experimental Plan.md",
-    "OneNote/LAB",
+    "scripts/opn-obsidian.txt",
     "OneNote/HOME/drawing.svg",
-    "OneNote/HOME",
-    "OneNote/2026 Q2",
-    "imgs/Exported image 20260410113619-0.png",
-    "imgs/Exported image 20260410113606-1.png",
-    "imgs/Exported image 20260410113604-0.png",
-    "imgs/Exported image 20260410113554-0.png",
-    "imgs/Exported image 20260410113550-5.png",
-    "imgs/Exported image 20260410113545-4.png",
-    "imgs/Exported image 20260410113542-3.png",
-    "imgs/Exported image 20260410113540-2.png",
-    "imgs/Exported image 20260410113538-1.png",
-    "imgs/Exported image 20260410112758-0.octet-stream",
-    "imgs/Exported image 20260410112753-0.octet-stream",
-    "imgs/Exported image 20260410112736-5.octet-stream",
-    "imgs/Exported image 20260410112733-4.octet-stream",
-    "imgs",
-    "OneNote/2025 Q2"
+    "OneNote/HOME/WALNUT CRACKER PLAN.md",
+    "OneNote/LEARNING/LATEXOVERLEAF.md",
+    "OneNote/2026 Q2/Wk18 [27th Apr].md",
+    "OneNote/2026 Q2/Wk17 [20th Apr].md",
+    "OneNote/2026 Q2/Wk16 [13th Apr].md",
+    "OneNote/Diary_20260410/2026 Q2/Wk18 [27th Apr].md",
+    "OneNote/Diary_20260410/2026 Q2/Wk17 [20th Apr].md",
+    "OneNote/Diary_20260410/LEARNING/PROGRAMMING SETUP.md"
   ]
 }

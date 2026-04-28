@@ -93,6 +93,10 @@ cssclasses: diary-week
 >- (1530-1630) Dynamics meeting: BNN: Car model -> Frequency response, expainability using LIME and SHAP.
 
 
+> [!caution]+ Learned
+> - `git branch -v` checkout `--ours` vs `--theirs` during a git rebase/merge
+> - 
+
 ---
 
 ## Fri 24th Apr
@@ -106,7 +110,7 @@ cssclasses: diary-week
 >[!caution]+ HOME TODO
 > - [ ] Make comments on dad's website
 > - [ ] Call Lorna!
-> - [ ] Pay for hut
+> - [x] Pay for hut
 
 
 

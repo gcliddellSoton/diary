@@ -13,6 +13,8 @@ cssclasses: diary-week
 > - Complete Klaminder method and results section
 > - Start QPD section
 > - Timeplan next experiments...
+> - Get car paintwork fixed
+> - Set up towel based capillary mat experiment
 
 >[!caution]+ Next Article possibilities
 |  Topic  |  Pros  |  Cons |
@@ -22,24 +24,36 @@ cssclasses: diary-week
 | Random plant explorations | Potentially useful | Been done before |
 | Cross-correlation method refinement | On a par with working at MacDonald's | Hard |
 
-
-
 ---
 
 ## Mon 27th Apr
 
 > [!todo]+ 📋 Plan
-> - 
+> - Michal corrections
+> - Read through printed version
+
 
 > [!note]+ 💭 Reflection
-> 
+> - [x] Fix colour scheme of figure 11 (gaussian)
+> - [ ] Fix red dot in IIR figure
+> - [ ] Redo calibration diagram in PowerPoint (remove image)
+> - [ ] Redo Barley diagram and add image
+> - [ ] Compress Klaminder figure
+> - [ ] Fix subfigure breakages...
+>
+> Made lots of corrections
+> Reduced the number of errors in the Overleaf output drastically
+> Came up against caption/subcaption conflicts with the Interface template 
 
+> [!caution]+ LaTex
 ---
 
 ## Tue 28th Apr
 
 > [!todo]+ 📋 Plan
-> - 
+> - Be at Westover
+> - Record lemon treee?
+
 
 > [!note]+ 💭 Reflection
 > 
