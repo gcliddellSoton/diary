@@ -34,24 +34,26 @@ cssclasses: diary-week
 
 
 > [!note]+ 💭 Reflection
-> - [x] Fix colour scheme of figure 11 (gaussian)
+>
 > - [ ] Fix red dot in IIR figure
+> - [ ] Read through Klaminder method (15 mins)
+> - [ ] Make corrections (1hr)
 > - [ ] Redo calibration diagram in PowerPoint (remove image)
 > - [ ] Redo Barley diagram and add image
 > - [ ] Compress Klaminder figure
-> - [ ] Fix subfigure breakages...
->
+> - [ ] Estimate signal-noise-ratio in hard/easy examples
+> - [ ] Add reference to Khaitreproduction gitlab repository
+> - [ ] Make Magnitude/Amplitude labels scientifically annotated
+> - [x] Fix Khait table width
+> - [x] Fix colour scheme of figure 11 (gaussian)
+> - [x] Check number of 'clipped signals in the Khait dataset'
+> - [x] Fix subfigure breakages...
+> - [x] Fix FuncFormatter font changes in specgram+time plots
+> 
 > Made lots of corrections
 > Reduced the number of errors in the Overleaf output drastically
 > Came up against caption/subcaption conflicts with the Interface template 
 > Late night battling with captions...
-
-> [!caution]+ LaTex
-- Change Edit>preferences turn on autosave, change theme etc
-- go to File>Document Properties... to set the page size and grids/guides
-- SHIFT to make rect from centre, CTRL to snap to grid points, CTRL+ALT...?
-
-![[inkscape-ui.png]]
 
 ## Tue 28th Apr
 
