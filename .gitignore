@@ -1,5 +1,5 @@
-# ignore the workspace file
-.obsidian/workspace.json
+# ignore the workspace and plugin files
+.obsidian/*
 
 # ignore the sync scripts too
 scripts/*

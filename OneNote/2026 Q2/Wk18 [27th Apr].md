@@ -44,6 +44,7 @@ cssclasses: diary-week
 > Made lots of corrections
 > Reduced the number of errors in the Overleaf output drastically
 > Came up against caption/subcaption conflicts with the Interface template 
+> Late night battling with captions...
 
 > [!caution]+ LaTex
 ---
@@ -53,6 +54,7 @@ cssclasses: diary-week
 > [!todo]+ 📋 Plan
 > - Be at Westover
 > - Record lemon treee?
+> - Printed out proofread
 
 
 > [!note]+ 💭 Reflection
