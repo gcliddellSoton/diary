@@ -34,9 +34,13 @@ cssclasses: diary-week
 
 
 > [!note]+ 💭 Reflection
-> 
+> - [x] Table 1 and Figure 1 to SI (and or condense)
+> - [x] Move pre-processing description to its own section after rushes (e)
+> - [ ] Writing the rush dataset (low priority)
+> - [x] Klaminder Peak-finding put subject at the beginning of the sentence
+> - [x] Bring 'threshold calculation' and 'summary statistics' to their own section + insert Geoffrey method in the middle
+> - [ ] Klaminder results & discussion
 > - [ ] Add high-frequency example to examples_grid
-
 > - [ ] Add tables describing the rush & barley recordings (SI?)
 > - [ ] Estimate signal-noise-ratio in hard/easy examples
 > - [ ] Add reference to Khaitreproduction gitlab repository
@@ -55,7 +59,7 @@ cssclasses: diary-week
 > - [x] Revise numbers in Bonisoli results section
 > - [x] Add histogram and fit to Klaminder results
 > - [x] Rotate results table headers back to horizontal...
-> 
+
 > Made lots of corrections
 > Reduced the number of errors in the Overleaf output drastically
 > Came up against caption/subcaption conflicts with the Interface template 
@@ -93,6 +97,16 @@ cssclasses: diary-week
 
 > [!todo]+ 📋 Plan
 > - 
+
+Tiina Meeting
+- Table 1 and Figure 1 to SI (and or condense)
+- Move pre-processing description to its own section after rushes (e)
+- Writing the rush dataset (low priority)
+- Klaminder Peak-finding put subject at the beginning of the sentence
+- Bring 'threshold calculation' and 'summary statistics' to their own section + insert Geoffrey method in the middle
+- Klaminder results & discussion
+
+The Discussion section will not be split into subsections in the end. So keep everything as bullets.
 
 > [!note]+ 💭 Reflection
 > 
