@@ -34,16 +34,19 @@ cssclasses: diary-week
 
 
 > [!note]+ 💭 Reflection
->
-> - [ ] Fix red dot in IIR figure
-> - [ ] Read through Klaminder method (15 mins)
-> - [ ] Make corrections (1hr)
-> - [ ] Redo calibration diagram in PowerPoint (remove image)
-> - [ ] Redo Barley diagram and add image
-> - [ ] Compress Klaminder figure
+> - [ ] Revise numbers in Bonisoli results section
+> - [ ] Add high-frequency example to examples_grid
+> - [ ] Add histogram and fit to Klaminder results
+> - [x] Rotate results table headers back to horizontal...
 > - [ ] Estimate signal-noise-ratio in hard/easy examples
 > - [ ] Add reference to Khaitreproduction gitlab repository
 > - [ ] Make Magnitude/Amplitude labels scientifically annotated
+> - [ ] Redo calibration diagram in PowerPoint (remove image)
+> - [ ] Redo Barley diagram and add image
+> - [ ] Fix red dot in IIR figure
+> - [x] Read through Klaminder method (15 mins)
+> - [x] Make corrections (1hr)
+> - [x] Compress Klaminder figure
 > - [x] Fix Khait table width
 > - [x] Fix colour scheme of figure 11 (gaussian)
 > - [x] Check number of 'clipped signals in the Khait dataset'
@@ -64,7 +67,9 @@ cssclasses: diary-week
 
 
 > [!note]+ 💭 Reflection
-> 
+> Did some Inkscape tutorialing while starting work
+> Spent whole day on corrections then met Irene after at 5.20
+> Went back to doing correction at 10pm for another couple of hours! Feels like progress!
 
 ---
 

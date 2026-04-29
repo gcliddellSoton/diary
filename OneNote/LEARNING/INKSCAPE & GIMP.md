@@ -4,3 +4,5 @@
 - SHIFT to make rect from centre, CTRL to snap to grid points, CTRL+ALT...?
 
 ![[inkscape-ui.png]]
+
+pt, em, mm, cm, px, ex...

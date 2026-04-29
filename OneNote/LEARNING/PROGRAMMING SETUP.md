@@ -43,10 +43,10 @@ done
  
 **REGEX EXAMPLES I'VE USED**
 
-| Phrase          | Explanation                                                                                  |
-| --------------- | -------------------------------------------------------------------------------------------- |
-| "\\cite\{\w*\}" | **\\cite\{ -** matches to "\cite{"  <br>**\w*** - is any sequence of alphanumeric characters |
-|                 |                                                                                              |
+| Phrase                                    | Explanation                                                                                                                       |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| "\\cite\{\w*\}"                           | **\\cite\{ -** matches to "\cite{"  <br>**\w*** - is any sequence of alphanumeric characters                                      |
+| "\\rotatebox\[origin=c\]\{.*?\}\{(.*?)\}" | ? is the non-greedy marker to make sure brackets are minimal. replaced with \\textbf{$1} where the $1 is the first capture group! |
 I have also made sure that I don't have to use the text editor vim from the command-line by going to `~/.bashrc` and adding the line:
 ```
 export EDITOR=nano
@@ -524,4 +524,11 @@ In the end I got half way through using the VScode GUI and then got sick of it. 
 
 I have been having a go with Obsidian. Unfortunately, it doesn't speak very well between my laptop and desktop and one has to pay for Obsidian Sync to keep a remote notes folder. Instead, I have set up a git repository, for which I use Github as the cloud back-up. Since my laptop doesn't ALWAYS have the university VPN on I also use Github to sync between the two.
 
-On the desktop, I have a dummy app shortcut, which first syncs with github, then opens Obsidian properly. When Obsidian closes, it also syncs changes. Sync also runs every hour whether Obsidian is open or not, using 
+On the desktop, I have a dummy app shortcut, which first syncs with github, then opens Obsidian properly. When Obsidian closes, it also syncs changes. Sync also runs every hour whether Obsidian is open or not, using ...
+
+The scripts kept being altered by different ends, so I have added `scripts/*` to the .gitignore, but also have had to run
+```bash
+git update-index --skip-worktree scripts/*
+git rm --cached .obsidian/workspace.json
+```
+
