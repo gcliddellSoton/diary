@@ -34,10 +34,10 @@ cssclasses: diary-week
 
 
 > [!note]+ 💭 Reflection
-> - [ ] Revise numbers in Bonisoli results section
+> 
 > - [ ] Add high-frequency example to examples_grid
-> - [ ] Add histogram and fit to Klaminder results
-> - [x] Rotate results table headers back to horizontal...
+
+> - [ ] Add tables describing the rush & barley recordings (SI?)
 > - [ ] Estimate signal-noise-ratio in hard/easy examples
 > - [ ] Add reference to Khaitreproduction gitlab repository
 > - [ ] Make Magnitude/Amplitude labels scientifically annotated
@@ -52,6 +52,9 @@ cssclasses: diary-week
 > - [x] Check number of 'clipped signals in the Khait dataset'
 > - [x] Fix subfigure breakages...
 > - [x] Fix FuncFormatter font changes in specgram+time plots
+> - [x] Revise numbers in Bonisoli results section
+> - [x] Add histogram and fit to Klaminder results
+> - [x] Rotate results table headers back to horizontal...
 > 
 > Made lots of corrections
 > Reduced the number of errors in the Overleaf output drastically
@@ -79,7 +82,10 @@ cssclasses: diary-week
 > - 
 
 > [!note]+ 💭 Reflection
-> 
+> - (0900-1030) Breakfast & gardening
+> - (1030-1045) Minor wording fixes in Klaminder method section
+> - (1045-1100) Inkscaping
+> - (1100-1237) Checked numbers in Bonisoli results, then did table formatting :(
 
 ---
 
