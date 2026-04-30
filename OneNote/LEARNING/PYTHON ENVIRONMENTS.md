@@ -45,6 +45,7 @@ Felt the need to do a full uninstall of miniconda for some reason
 5. Remove a broken environment ==`conda remove -n myenv --all`==
 6. Add channels: ==`conda config --append channels roebel`==
 7. Show available channels ==`conda config --show channels`== 
+8. Clean unused files. Often conda becomes very bloated!
 
 ### **For 'Khait Reproduction'**
  

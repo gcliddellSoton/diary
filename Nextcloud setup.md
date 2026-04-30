@@ -1,0 +1,11 @@
+
+- Install Debian
+- Install Docker
+- Open Nextcloud github compose.yaml:
+	- Comment out port 80:80/8443:8443
+	- Uncomment APACHE_PORT and APACHE_IP_BINDING
+	- SKIP_DOMAIN_VALIDATION: true
+	- Uncomment caddy/configs
+	- put in the domain name where it says to adjust your domain name and add 'tls internal'
+- SSH into the server and mkdir nextcloud, cd in and paste the changed compose.yaml in
+- `docker compose`
