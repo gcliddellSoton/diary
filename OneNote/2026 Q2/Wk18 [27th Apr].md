@@ -39,7 +39,7 @@ cssclasses: diary-week
 > - [ ] Writing the rush dataset (low priority)
 > - [x] Klaminder Peak-finding put subject at the beginning of the sentence
 > - [x] Bring 'threshold calculation' and 'summary statistics' to their own section + insert Geoffrey method in the middle
-> - [ ] Klaminder results & discussion
+> - [x] Klaminder results & discussion
 > - [ ] Add high-frequency example to examples_grid
 > - [ ] Add tables describing the rush & barley recordings (SI?)
 > - [ ] Estimate signal-noise-ratio in hard/easy examples
@@ -83,20 +83,7 @@ cssclasses: diary-week
 ## Wed 29th Apr
 
 > [!todo]+ 📋 Plan
-> - 
-
-> [!note]+ 💭 Reflection
-> - (0900-1030) Breakfast & gardening
-> - (1030-1045) Minor wording fixes in Klaminder method section
-> - (1045-1100) Inkscaping
-> - (1100-1237) Checked numbers in Bonisoli results, then did table formatting :(
-
----
-
-## Thu 30th Apr
-
-> [!todo]+ 📋 Plan
-> - 
+> - No plan!
 
 Tiina Meeting
 - Table 1 and Figure 1 to SI (and or condense)
@@ -109,7 +96,33 @@ Tiina Meeting
 The Discussion section will not be split into subsections in the end. So keep everything as bullets.
 
 > [!note]+ 💭 Reflection
-> 
+> - (0900-1030) Breakfast & gardening
+> - (1030-1045) Minor wording fixes in Klaminder method section
+> - (1045-1100) Inkscaping
+> - (1100-1237) Checked numbers in Bonisoli results, then did table formatting :(
+
+---
+
+## Thu 30th Apr
+
+> [!todo]+ 📋 Plan
+> - (0900-1000) Do external hard-drive back-up
+> - (1000-1030) Emails
+> - (1030-1100) Coffee, discuss back-ups/websites with dad, brownies
+> - (1100-1200) Overleaf corrections, e.g. should one use bandpass filter
+> - (1200-1300) Lunch
+> - (1400-1700) Faff?
+> - (1730-1830) drive
+> - (1830-1000) cooking
+> - (1050-1110) setting up truffle 3D print
+
+
+> [!note]+ 💭 Reflection
+> - Emails done
+> - Discussed website/back-ups with dad. He suggested contacting HB Tech
+> Overleaf corrections
+> (1100-1300) Started copying OneDrive over to hard drive...slow!
+> (1400-1430) Distracted by signing up to Twingate
 
 ---
 

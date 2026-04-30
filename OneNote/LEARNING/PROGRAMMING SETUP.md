@@ -222,45 +222,6 @@ Copies only first level directories `-f "- /*/*"` excludes anything in a subdire
 must be included, then `-f "- /*` excludes anything that is not a directory.  
 
 ---
-# Personal Filestore
-
-DON'T USE FILESTORE  
-EDIT: DO USE FILESTORE FOR BIG STUFF
- 
-Moved all stuff from CSEG_3 to research filestore with this type of command:
-```bash
-rsync -rv --progress "/local/scratch/gcl1r25/GitRepos/Avisoft Bioacoustics/xpmt_2_rush" "/run/user/448136982/gvfs/smb-share:server=biomonwa.files.soton.ac.uk,share=biomonwa/Avisoft Bioacoustics"
-```
-
->[!note] NOTE: the `-a` flag prevents WAV files being transferred properly, possibly because the implicit –p (preserve permissions)
-## Back-up notes
-
-> [!note] THE 3-2-1 RULE
-> - 3 copies
-> - 2 physical locations
-> - 1 offline copy
-
- > [!caution]+ Questions for iSolutions
- >- Q: Why is my OneDrive saying I only have 200GB of space? A: bcs policy has changed
-> - Q: Should I be doing system-level back-ups or just files and folders?
-> - Q: How can I do full OneDrive downloads?
-
-- Timeshift on Linux would be easily the simplest option, if allowed by the university
-- Using rsync effectively: [https://www.reddit.com/r/linuxquestions/comments/1b74ucd/using_rsync_to_backup_effectively/](https://www.reddit.com/r/linuxquestions/comments/1b74ucd/using_rsync_to_backup_effectively/)
-
->[!todo]+ 
-> - [ ]Personal OneDrive: Download and add as a subfolder of Southampton OneDrive
-> - [ ] Southampton OneDrive: Download and push back-up to external drive
-> - [ ] Windows laptop C: drive: ???? Don't use?
-> - [ ] Linux  /local/scratch setup Timeshift?
-> - [ ] CSEG_3 ??????? setup rsync back-up script on desktop ???????
-
- 
-> [15/04/2026]
-- UmbrelOS would make a good research start point for home server. Then install NextCloud?
-- Wireguard or OpenVPN would allow the home cloud to be accessible anywhere
-- Apache is the software required for self-hosting a web server
----
 # Git/Gitlab
 ## Index
 1. Introduction to Git
