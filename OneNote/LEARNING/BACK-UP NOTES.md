@@ -63,10 +63,13 @@ The destination directory is automatically created. Presumably I should just rem
 - First step is to turn on the PC and share a folder on the network! Or to share using samba
 - Second step would be to install Docker and add a Nextcloud instance in a container https://www.youtube.com/watch?v=ewarxugZH3Q&t=8s. The video suggests Twingate for remote access
 - UmbrelOS would make a good research start point for a simpler home server.
-- Wireguard or OpenVPN would allow the home cloud to be accessible anywhere, or tailscale?
+- Wireguard or OpenVPN would allow the home cloud to be accessible anywhere, or tailscale/twingate?
 - Apache is the software required for self-hosting a web server
 
 First thing I've tried is getting the twingates running. But got pretty stuck on just ssh'ing into Windows machines. A colossal faff compared to Linux!
+1. Make sure you have an ssh server as well as client installed (by running PowerShell as administrator! https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=gui&pivots=windows-server-2025
+2. Make sure the Windows Firewall isn't blocking incoming traffic. Not entirely sure how I fixed this...
+3. [todo] Install Docker, Twingate connector is running, but crashes..., install twingate client, install
 
 
 ## Nextcloud instructions

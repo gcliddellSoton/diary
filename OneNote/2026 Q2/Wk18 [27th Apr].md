@@ -111,7 +111,7 @@ The Discussion section will not be split into subsections in the end. So keep ev
 > - (1030-1100) Coffee, discuss back-ups/websites with dad, brownies
 > - (1100-1200) Overleaf corrections, e.g. should one use bandpass filter
 > - (1200-1300) Lunch
-> - (1400-1700) Faff?
+> - (1400-1700) Faff? Setting up desktop in a corner
 > - (1730-1830) drive
 > - (1830-1000) cooking
 > - (1050-1110) setting up truffle 3D print
