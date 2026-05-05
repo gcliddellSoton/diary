@@ -34,12 +34,7 @@ cssclasses: diary-week
 
 
 > [!note]+ 💭 Reflection
-> - [x] Table 1 and Figure 1 to SI (and or condense)
-> - [x] Move pre-processing description to its own section after rushes (e)
 > - [ ] Writing the rush dataset (low priority)
-> - [x] Klaminder Peak-finding put subject at the beginning of the sentence
-> - [x] Bring 'threshold calculation' and 'summary statistics' to their own section + insert Geoffrey method in the middle
-> - [x] Klaminder results & discussion
 > - [ ] Add high-frequency example to examples_grid
 > - [ ] Add tables describing the rush & barley recordings (SI?)
 > - [ ] Estimate signal-noise-ratio in hard/easy examples
@@ -47,7 +42,7 @@ cssclasses: diary-week
 > - [ ] Make Magnitude/Amplitude labels scientifically annotated
 > - [ ] Redo calibration diagram in PowerPoint (remove image)
 > - [ ] Redo Barley diagram and add image
-> - [ ] Fix red dot in IIR figure
+> - [ ] Check whether there is an implicit overlap check in the Bonisoli method!
 > - [x] Read through Klaminder method (15 mins)
 > - [x] Make corrections (1hr)
 > - [x] Compress Klaminder figure
@@ -59,6 +54,12 @@ cssclasses: diary-week
 > - [x] Revise numbers in Bonisoli results section
 > - [x] Add histogram and fit to Klaminder results
 > - [x] Rotate results table headers back to horizontal...
+> - [x] Fix red dot in IIR figure
+> - [x] Klaminder Peak-finding put subject at the beginning of the sentence
+> - [x] Bring 'threshold calculation' and 'summary statistics' to their own section + insert Geoffrey method in the middle
+> - [x] Klaminder results & discussion bullet points
+> - [x] Table 1 and Figure 1 to SI (and or condense)
+> - [x] Move pre-processing description to its own section after rushes (e)
 
 > Made lots of corrections
 > Reduced the number of errors in the Overleaf output drastically
@@ -132,7 +133,8 @@ The Discussion section will not be split into subsections in the end. So keep ev
 > - 
 
 > [!note]+ 💭 Reflection
-> 
+> (0900-1100) Preparations!
+> (1200-1220) Made a shortcut for open-obsidian.bat, then went to properties and add "cmd.exe /c" to the beginning of the "Target:" field, changed the Icon to the official obsidian one with a file from the Obsidian website. TODO still: add Windows Task Scheduler every 2hrs!
 
 ---
 
