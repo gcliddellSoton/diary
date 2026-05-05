@@ -48,6 +48,11 @@ Inkscape learnt:
 ## Wed 6th May
 
 > [!todo]+ 📋 Plan
+> - (0900-1000) Read rushes_plan and rushes_interim and rush_final then write rush dataset description
+> - (1000-1100) Write outline of Geoffrey method now that the motivation has been described.
+> 	- pcen feature
+> 	- hypothesis test
+> 	- cross-correlation
 > - Add image of PCEN and the results of a complete run, comparing with Klaminder
 
 > [!note]+ 💭 Reflection
