@@ -41,7 +41,8 @@ cssclasses: diary-week
 > - [ ] Add reference to Khaitreproduction gitlab repository
 > - [ ] Make Magnitude/Amplitude labels scientifically annotated
 > - [ ] Redo calibration diagram in PowerPoint (remove image)
-> - [ ] Redo Barley diagram and add image
+> - [x] Redo Barley diagram
+> - [ ] Add image of barley/rush/calibration setups to SI
 > - [ ] Check whether there is an implicit overlap check in the Bonisoli method!
 > - [x] Read through Klaminder method (15 mins)
 > - [x] Make corrections (1hr)

@@ -29,13 +29,19 @@ cssclasses: diary-week
 ## Tue 5th May
 
 > [!todo]+ 📋 Plan
-> - [ ] Michal corrections
+> - [x] Michal corrections
 > - [ ] Write-up rush dataset description
-> - [ ] Outline the Geoffrey method (burger)
+> - [x] Outline the Geoffrey method (burger)
 > - [ ] Describe PCEN and why
 
 > [!note]+ 💭 Reflection
-> 
+> - Not as focused as the ideal
+> - Morning: fixed text correction suggestions from Michal
+> - Lunch: distracted
+> - (1400-1700) Inkscape construction of barley/rush dataset diagrams
+
+Inkscape learnt:
+
 
 ---
 
