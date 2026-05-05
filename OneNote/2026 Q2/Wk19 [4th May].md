@@ -5,25 +5,21 @@ cssclasses: diary-week
 *4th May – 10th May 2026*
 
 > [!abstract]+ 🔭 Long-Term Goals
-> - 
+> - Complete draft and submit
+> - Do new experiment
+> - Write 18 month report
 
 > [!check]+ ✅ TODO This Week
-> - 
-> - 
-> - 
-
-> [!info]+ 🎯 Aims This Week
-> - 
-> - 
-> - 
-
+> - Start QPD section
+> - Timeplan next experiments...
+> - Get car paintwork fixed
+> - Set up towel based capillary mat experiment
 
 ---
 
 ## Mon 4th May
 
 > [!todo]+ 📋 Plan
-> - 
 
 > [!note]+ 💭 Reflection
 > 
@@ -33,7 +29,10 @@ cssclasses: diary-week
 ## Tue 5th May
 
 > [!todo]+ 📋 Plan
-> - 
+> - [ ] Michal corrections
+> - [ ] Write-up rush dataset description
+> - [ ] Outline the Geoffrey method (burger)
+> - [ ] Describe PCEN and why
 
 > [!note]+ 💭 Reflection
 > 
@@ -43,7 +42,7 @@ cssclasses: diary-week
 ## Wed 6th May
 
 > [!todo]+ 📋 Plan
-> - 
+> - Add image of PCEN and the results of a complete run, comparing with Klaminder
 
 > [!note]+ 💭 Reflection
 > 
