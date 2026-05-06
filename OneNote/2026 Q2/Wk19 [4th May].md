@@ -65,7 +65,7 @@ Inkscape learnt:
 ## Thu 7th May
 
 > [!todo]+ 📋 Plan
-> - 
+> - Select files for WISTERIA interview panel
 
 > [!note]+ 💭 Reflection
 > 
