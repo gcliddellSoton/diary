@@ -4,6 +4,9 @@
 - SHIFT to make rect from centre, CTRL to snap to grid points, CTRL+ALT...?
 
 ![[inkscape-ui.png]]
+**Polygons**
+* You can use the rotation handles also to shear!
+
 
 **from doing the barley/rush diagram:**
 - shortcuts for union/diff = ctrl++, ctrl+-
@@ -13,6 +16,9 @@
 	- use node tool 'n' not select 's'! 
 	- Useful to tick 'Show path outline' to avoid confusion
 - page up/down reorders objects
+
+**from the calibration setup diagram**
+* detoggle 'scale line widths' option to keep connectors the same width/height
 
 
 pt, em, mm, cm, px, ex...
