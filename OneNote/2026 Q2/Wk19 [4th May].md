@@ -30,7 +30,7 @@ cssclasses: diary-week
 
 > [!todo]+ 📋 Plan
 > - [x] Michal corrections
-> - [ ] Write-up rush dataset description
+> - [x] Write-up rush dataset description
 > - [x] Outline the Geoffrey method (burger)
 > - [ ] Describe PCEN and why
 
@@ -48,15 +48,17 @@ Inkscape learnt:
 ## Wed 6th May
 
 > [!todo]+ 📋 Plan
-> - (0900-1000) Read rushes_plan and rushes_interim and rush_final then write rush dataset description
-> - (1000-1100) Write outline of Geoffrey method now that the motivation has been described.
+> - [x] (0900-1000) Read rushes_plan and rushes_interim and rush_final then write rush dataset description
+> - [ ] (1000-1100) Write outline of Geoffrey method now that the motivation has been described.
 > 	- pcen feature
 > 	- hypothesis test
 > 	- cross-correlation
-> - Add image of PCEN and the results of a complete run, comparing with Klaminder
+> - [ ] Add image of PCEN and the results of a complete run, comparing with Klaminder
 
 > [!note]+ 💭 Reflection
 > (1000-1050) Looked at how to automatically mount smb shares at boot...
+> (1050-1130) Fixed not being able to vie .heic files: `sudo dnf install heif-pixbuf-loader` then also `sudo dnf install libheif-tools`
+> (1130-1200) Writing rush section
 
 ---
 

@@ -34,9 +34,9 @@ cssclasses: diary-week
 
 
 > [!note]+ 💭 Reflection
-> - [ ] Writing the rush dataset (low priority)
+> - [x] Writing the rush dataset (low priority)
 > - [ ] Add high-frequency example to examples_grid
-> - [ ] Add tables describing the rush & barley recordings (SI?)
+> - [x] Add tables describing the rush & barley recordings (SI?)
 > - [ ] Estimate signal-noise-ratio in hard/easy examples
 > - [ ] Add reference to Khaitreproduction gitlab repository
 > - [ ] Make Magnitude/Amplitude labels scientifically annotated
