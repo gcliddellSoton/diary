@@ -56,7 +56,7 @@ Inkscape learnt:
 > - Add image of PCEN and the results of a complete run, comparing with Klaminder
 
 > [!note]+ 💭 Reflection
-> 
+> (1000-1050) Looked at how to automatically mount smb shares at boot...
 
 ---
 

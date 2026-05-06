@@ -164,7 +164,21 @@ secret-tool search --all xdg:schema org.gnome.keyring.NetworkPassword
 It is now mounted, but not entiredly sure how. It is mounted in nautilus and I can access it from Python by using the path  
 "/run/user/448136982/gvfs/smb-share:server=152.78.176.170,share=g_liddell/Avisoft Bioacoustics". I found this out by drag-and-dropping it from nautilus into the terminal...
  
-Also learnt today that 'Disk Usage Analyser' is an extremely useful tool and much more detailed/speedy than 'System Monitor'  
+Also learnt today that 'Disk Usage Analyser' is an extremely useful tool and much more detailed/speedy than 'System Monitor'
+
+As of [06/05/2026] everything has stayed possible to connect to, but both cseg and filestore drives unmount after every reboot, which is a little annoying! The instructions on the Red Hat website say to alter fstab file to add the following line:
+`smb://152.78.176.170/g_liddell /mnt cifs credentials=/home/gcl1r25/smb.cred 0 0`
+Then create the file /home/gcl1r25/smb.cred, which contains
+```
+username=\<username\>
+password=\<pwd\>
+domain=\<domain\>
+```
+and set the permissions:
+```
+chown <username> /home/gcl1r25/smb.cred
+chmod 600 /home/gcl1r25/smb.cred
+```
 
 ## WINDOWS
  
