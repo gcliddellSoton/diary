@@ -65,11 +65,21 @@ Inkscape learnt:
 ## Thu 7th May
 
 > [!todo]+ 📋 Plan
-> - Select files for WISTERIA interview panel: 
+> - [x] Select files for WISTERIA interview panel: 
 > 	- 2 channels-> 4 files 
 > 	- 10 minutes each
 > 	- Include T131, 17_p17, a single sample spike and 'screech'
+> - [x] Check software licenses for
+> - [ ] Show examples of a histogram of spectrogram values
 
+| Software                | License                  |
+| ----------------------- | ------------------------ |
+| SciPy                   | BSD 3-Clause             |
+| Audacity                | GPLv3/2  docs: CC-BY 3.0 |
+| MAAD                    | BSD 3-Clause             |
+| Khait data              | CC0 1.0                  |
+| Khait code              | CC BY 4.0                |
+| Python standard library | ?                        |
 To make a simple summary table:
 ```python
 import os
@@ -79,7 +89,7 @@ for key, val in data.items():
     num_positives = len(val["events_observed_manually"]["start"])
     print(f"{key}\t\t{num_positives}\t\t{val["events_observed_manually"]["start"]}")
 ```
-To make the fake:
+To make the fakes:
 ```python
 import spaekit
 import soundfile as sf
@@ -96,7 +106,11 @@ sf.write("2026-05-07_10-30-24_test1.wav", out.T, 500000, format='WAV')
 34.8kHz/28.3kHz for channel 2/1
 
 > [!note]+ 💭 Reflection
-> 
+> - (0900-1000) Lost keys
+> - (1000-1200) Putting together interview files for Tiina
+> - (1200-1230) Student Enterprise 1:1
+> - (1230-1400) Lunch
+> - (1400-1530) Checked software licenses & tidied file names
 
 ---
 

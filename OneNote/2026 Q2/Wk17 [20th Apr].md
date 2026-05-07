@@ -108,7 +108,7 @@ cssclasses: diary-week
 > - [ ] Look at timeplan to 18 months!
 
 >[!caution]+ HOME TODO
-> - [ ] Make comments on dad's website
+> - [ ] ~~Make comments on dad's website~~ dad's ditching it!
 > - [ ] Call Lorna!
 > - [x] Pay for hut
 
