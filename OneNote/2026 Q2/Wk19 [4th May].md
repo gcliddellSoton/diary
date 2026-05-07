@@ -65,7 +65,35 @@ Inkscape learnt:
 ## Thu 7th May
 
 > [!todo]+ 📋 Plan
-> - Select files for WISTERIA interview panel
+> - Select files for WISTERIA interview panel: 
+> 	- 2 channels-> 4 files 
+> 	- 10 minutes each
+> 	- Include T131, 17_p17, a single sample spike and 'screech'
+
+To make a simple summary table:
+```python
+import os
+with open("xpmt_0_barley_groundtruth.json") as f:
+    data = json.load(f)
+for key, val in data.items():
+    num_positives = len(val["events_observed_manually"]["start"])
+    print(f"{key}\t\t{num_positives}\t\t{val["events_observed_manually"]["start"]}")
+```
+To make the fake:
+```python
+import spaekit
+import soundfile as sf
+total_len_samples = 10 * 60 * 500000
+examples = ["barley", "spike", "rush", "screech"]
+lens = [0.2, 0.3, 0.4, 0.1]
+out = np.empty((2, 0))
+for len, example in zip(lens, examples):
+	len_samples = int(lens*total_len_samples)
+	y, fs, _, _ = spaekit.utils.load_example(example, clip_length=len_samples)
+	out = np.concatenate((out, y), axis=1)
+sf.write("2026-05-07_10-30-24_test1.wav", out.T, 500000, format='WAV')
+```
+34.8kHz/28.3kHz for channel 2/1
 
 > [!note]+ 💭 Reflection
 > 
