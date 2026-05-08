@@ -23,7 +23,12 @@ cssclasses: diary-week
 ## Mon 11th May
 
 > [!todo]+ 📋 Plan
-> - 
+> - [ ] Test `peak_prom_per_file` without cross microphone check
+> - [ ] Start `peak_prom_per_file` WITH cross microphone check
+> - [ ] Do Conviron induction
+> - [ ] Add example to example grid, add normalisation description, move magnitude label
+> - [ ] Tick off other things on list from 27th Apr
+
 
 > [!note]+ 💭 Reflection
 > 
@@ -33,7 +38,9 @@ cssclasses: diary-week
 ## Tue 12th May
 
 > [!todo]+ 📋 Plan
-> - 
+> - [ ] Check whether `peak_prom_per_file` worked again
+> - [ ] Run `spectrogram_intensity`
+> - [ ] 
 
 > [!note]+ 💭 Reflection
 > 

@@ -120,13 +120,16 @@ sf.write("2026-05-07_10-30-24_test1.wav", out.T, 500000, format='WAV')
 > - Create example of why intensity based threshold does not work statistically ()
 > - Create example of low-pass filtering the spectrogram
 
-1. Assuming independent bins:
-2. 
-
-> [!note]+ 💭 Reflection
 > - Test each feature methodically and compare against Klaminder
 > - Test various PCEN parameters and show that it creates garbled distributions
 > - Using the best feature test each xcorr method methodically against Khait
+
+> [!note]+ 💭 Reflection
+> - Morning good
+> - Meeting good
+> - (1500-1700) Disctracted by trying to revive the desktop: seem to have managed to reset BIOS. Next step is to flash a Debian GNOME image to a USB drive!
+> - (1700-1840) Getting the peak_prom_per_file up and running. Expecting bad performance on Khait... theree should be a trade-off between performance on Khait vs. Rush?
+
 
 
 **Filtering:**
