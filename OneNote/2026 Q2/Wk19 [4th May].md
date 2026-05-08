@@ -117,10 +117,51 @@ sf.write("2026-05-07_10-30-24_test1.wav", out.T, 500000, format='WAV')
 ## Fri 8th May
 
 > [!todo]+ 📋 Plan
-> - 
+> - Create example of why intensity based threshold does not work statistically ()
+> - Create example of low-pass filtering the spectrogram
+
+1. Assuming independent bins:
+2. 
 
 > [!note]+ 💭 Reflection
-> 
+> - Test each feature methodically and compare against Klaminder
+> - Test various PCEN parameters and show that it creates garbled distributions
+> - Using the best feature test each xcorr method methodically against Khait
+
+
+**Filtering:**
+- [ ] 20kHz high-pass
+- [ ] Spectrogram and cut
+- [ ] PCEN
+**Features:**
+- [x] Time-domain amplitude
+- [ ] Spectrogram intensity
+- [ ] Wavelet transform output
+- [x] Spectrum Peak prominence
+- [ ] Spectral entropy
+- [ ] Spectral flatness
+**Threshold adjustment:**
+Always using the 1hr 1 false positive calculation!
+- [x] Using a calibration file
+- [x] Per file
+- [ ] Per file minus outliers
+- [ ] Sliding window
+**Cross-correlation feature:**
+- Overlap-check
+- Calibrated sliding window `np.corr(x[start:end], y)`
+- Coherence `np.abs(Pxy)**2 / (Pxx * Pyy)`
+- GCC-PHAT `Pxy = FFT(x)*conj(FFT(y)), R_PHAT=IFFT(Pxy/np.abs(Pxy)) delay=max(CC)`
+**Cross-correlation threshold:**
+- Maximum
+- Peak prominence
+
+![[Screenshot from 2026-05-08 12-27-30.png]]
+![[Screenshot from 2026-05-08 12-27-18.png]]
+  
+![[Screenshot from 2026-05-08 12-26-50.png]]
+![[Pasted image 20260508122853.png]]
+
+
 
 ---
 
