@@ -140,20 +140,28 @@ sf.write("2026-05-07_10-30-24_test1.wav", out.T, 500000, format='WAV')
 - [x] Spectrum Peak prominence
 - [ ] Spectral entropy
 - [ ] Spectral flatness
+- [ ] Cross-correlation
 **Threshold adjustment:**
 Always using the 1hr 1 false positive calculation!
 - [x] Using a calibration file
-- [x] Per file
+- [ ] Per file
 - [ ] Per file minus outliers
 - [ ] Sliding window
 **Cross-correlation feature:**
-- Overlap-check
-- Calibrated sliding window `np.corr(x[start:end], y)`
+- [x] Overlap-check
+- [x] Calibrated sliding window `np.corr(x[start:end], y)`
 - Coherence `np.abs(Pxy)**2 / (Pxx * Pyy)`
 - GCC-PHAT `Pxy = FFT(x)*conj(FFT(y)), R_PHAT=IFFT(Pxy/np.abs(Pxy)) delay=max(CC)`
 **Cross-correlation threshold:**
 - Maximum
 - Peak prominence
+
+MK check:
+- First: klaminder feature + bonisoli threshold + khait cross microphone check (1.5 days)
+- Second: spectrogram intensity as a feature (1.5 days)
+- Whether cross-correlation is a good feature to use too
+- Clarify magnitude in examples grid
+- Combine figures together
 
 Up to now I had made lots of images etc, and tested lots of parameters for the PCEN filter and looked at the histograms of pixel values, but without a methodical approach
 ![[Pasted image 20260508122853.png|590]]
