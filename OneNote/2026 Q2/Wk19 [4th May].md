@@ -155,6 +155,9 @@ Always using the 1hr 1 false positive calculation!
 - Maximum
 - Peak prominence
 
+Up to now I had made lots of images etc, and tested lots of parameters for the PCEN filter and looked at the histograms of pixel values, but without a methodical approach
+![[Pasted image 20260508122853.png|590]]
+After listing all of the possible filters, features that could be thresholded, cross-correlation variations and possible ways of thresholding the cross-correlation, it was obvious that I had skipped the next logical step, which would be to look for abnormally large values in the spectrogram directly. (Sorry, I know you said I should have done that first...)
 ![[Screenshot from 2026-05-08 12-27-30.png]]
 ![[Screenshot from 2026-05-08 12-27-18.png]]
   
