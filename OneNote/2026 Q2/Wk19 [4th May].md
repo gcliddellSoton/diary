@@ -129,8 +129,7 @@ sf.write("2026-05-07_10-30-24_test1.wav", out.T, 500000, format='WAV')
 > - Meeting good
 > - (1500-1700) Disctracted by trying to revive the desktop: seem to have managed to reset BIOS. Next step is to flash a Debian GNOME image to a USB drive!
 > - (1700-1840) Getting the peak_prom_per_file up and running. Expecting bad performance on Khait... theree should be a trade-off between performance on Khait vs. Rush?
-
-
+> - (2000-2300) Couldn't resist periodically checking SLURM job to fix errors and restart! e.g. lb/ub not being used for clipping in one run meaning there were tonnes of events!
 
 **Filtering:**
 - [ ] 20kHz high-pass
