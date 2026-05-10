@@ -163,6 +163,10 @@ secret-tool search --all xdg:schema org.gnome.keyring.NetworkPassword
 ```
 It is now mounted, but not entiredly sure how. It is mounted in nautilus and I can access it from Python by using the path  
 "/run/user/448136982/gvfs/smb-share:server=152.78.176.170,share=g_liddell/Avisoft Bioacoustics". I found this out by drag-and-dropping it from nautilus into the terminal...
+If it becomes unmounted and you need to re-mount it remotely, you can do it with:
+````
+$ gio mount smb://<server>/<share>
+````
  
 Also learnt today that 'Disk Usage Analyser' is an extremely useful tool and much more detailed/speedy than 'System Monitor'
 
