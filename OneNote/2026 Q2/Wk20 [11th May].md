@@ -45,7 +45,7 @@ TODO: add to slurm script:
 
 
 > [!note]+ 💭 Reflection
-> 
+> (1000-1100) Just looked and 
 
 ---
 
