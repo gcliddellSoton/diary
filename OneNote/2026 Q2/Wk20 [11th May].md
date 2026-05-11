@@ -18,7 +18,6 @@ cssclasses: diary-week
 > - 
 > - 
 
-
 ---
 
 ## Mon 11th May
@@ -37,15 +36,26 @@ TODO: add to slurm script:
 
 
 > [!todo]+ 📋 Plan
-> - [ ] Test `peak_prom_per_file` without cross microphone check
-> - [ ] Start `peak_prom_per_file` WITH cross microphone check
+> - [x] Test `peak_prom_per_file` without cross microphone check
+> - [x] Start `peak_prom_per_file` WITH cross microphone check
 > - [ ] Do Conviron induction
 > - [ ] Add example to example grid, add normalisation description, move magnitude label
 > - [ ] Tick off other things on list from 27th Apr
 
+Results:
+- Consistent threshold across Calibration, Barley, Rush is not good, but when adjusted to each set of recordings, the sensitivity is by far the best
+- Adjusting on a per-file segment basis while iterating through each file did not work very well (filtering done by cutting the spectrogram)
+- Best sensitivity is therefore achieved using a calibrated system, but calibration must be done for each recording session. ALTERNATIVE: create an MAP estimate of the noise, given a PRIOR estimate from the calibration file. <- probably an over-complicated method...
+- Using a cross-microphone check with the peak prominence threshold increased the Predictive Value, but at the expense of sensitivity! ALTERNATIVE: use a more sensitive cross-correlation threshold 
+
+SLURM run times...
+* Khait - a few seconds
+* Calibration: 00:04:19 elapsed, 01:04:45 core-walltime
+* Barley:         --:--:--    elapsed, --:--:--    core-walltime
+* Rush           --:--:--    elapsed, --:--:--    core-walltime
 
 > [!note]+ 💭 Reflection
-> (1000-1100) Just looked and 
+> (1000-1100) 
 
 ---
 
