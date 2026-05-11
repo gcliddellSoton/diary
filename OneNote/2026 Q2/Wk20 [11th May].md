@@ -55,7 +55,17 @@ SLURM run times...
 * Rush           --:--:--    elapsed, --:--:--    core-walltime
 
 > [!note]+ 💭 Reflection
-> (1000-1100) 
+> It's taking too long to do all of the manual adjustments for each dataset when running the peak_prom_per_file method. I need to be able to hit 'run' and let it go, as by the time its finished, I've forgotten what I was actually doing! In theory, so far I have run:
+> 	- peak prominence + dataset specific threshold + no cross-check (i.e. klaminder)
+> 	- peak prominence + variable threshold + no cross-check
+> 	- peak prominence + dataset specific threshold + cross-check
+> And eventually I also need to have run:
+> 	- peak prominence + fixed threshold + no cross-check (i.e. what klaminder should be)
+> 	- peak prominence + fixed threshold + cross-check (klaminder with khait improvement)
+> 	- peak prominence + variable threshold + no cross-check
+> 	- peak prominence + variable threshold + cross-check
+> 	- peak prominence + variable threshold + cross-check + <3 oscillations
+
 
 ---
 
