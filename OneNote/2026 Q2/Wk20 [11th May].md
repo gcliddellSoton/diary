@@ -72,9 +72,9 @@ SLURM run times...
 ## Tue 12th May
 
 > [!todo]+ 📋 Plan
-> - [ ] Check whether `peak_prom_per_file` worked again
-> - [ ] Run `spectrogram_intensity`
-> - [ ] 
+> - [ ] Get all combos of prominence/cross-corr/variable thresh running
+> - [ ] Submit PowerPoint + abstract to Vanui
+> - [ ] Find somewhere to call for car paintwork job
 
 At 1306: .out is on line 5152. It seems that changing files during a slurm job is not a good idea! Changing config_bonisoli.py to have verbose: False. Nevertheless, at 1400 although no visible progress in .out, everything does seem to be working!
 
@@ -85,9 +85,16 @@ Things started:
 TODO: generate the plots for all the new methods in benchmarking_analyse_results.ipynb
 
 > [!note]+ 💭 Reflection
-> (1030-1130) Khait run on Cal/Bar/Rus
-> (1130-1330) Bonisoli run on Cal/Bar/Rus
-> (1330-1400) Klaminder run on Cal/Bar/Rus
+> (0900-1030) Distracted by: Biolab, CMP7000 controller manual, pump spec
+> (1030-1330) Code re-factor, then running KHA/BON/KLA on Cal/Bar/Rus
+> (1400-1600) Started running all the other methods on Cal/Bar/Rus
+> (1700-1700) Bonisoli crashed on Bar. Restart it with bonisoli config verbose=True
+
+peak_prom_fix_check ran
+prak_prom_fix_nocheck
+peak_prom_var_nocheck
+All ran on calibration. There are NO problems with the calibration dataset or the Khait method. BUT the others seem to be being OOM killed. Reducing the number of workers for the overnight run!
+> 
 
 ---
 
