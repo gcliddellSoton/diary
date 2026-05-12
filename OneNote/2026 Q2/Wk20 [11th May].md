@@ -53,6 +53,7 @@ SLURM run times...
 * Calibration: 00:04:19 elapsed, 01:04:45 core-walltime
 * Barley:         --:--:--    elapsed, --:--:--    core-walltime
 * Rush           --:--:--    elapsed, --:--:--    core-walltime
+66 : 3684
 
 > [!note]+ 💭 Reflection
 > (1000-1100) 
@@ -64,7 +65,7 @@ SLURM run times...
 > [!todo]+ 📋 Plan
 > - [ ] Check whether `peak_prom_per_file` worked again
 > - [ ] Run `spectrogram_intensity`
-> - [ ] 
+
 
 > [!note]+ 💭 Reflection
 > 
