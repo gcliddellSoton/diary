@@ -40,6 +40,7 @@ cssclasses: diary-week
 > - [ ] Estimate signal-noise-ratio in hard/easy examples
 > - [ ] Add reference to Khaitreproduction gitlab repository
 > - [ ] Make Magnitude/Amplitude labels scientifically annotated
+> - [ ] Add normalisation description to example grid
 > - [x] Redo calibration diagram in PowerPoint (remove image)
 > - [x] Redo Barley diagram
 > - [ ] Add image of barley/rush/calibration setups to SI

@@ -63,9 +63,10 @@ SLURM run times...
 ## Tue 12th May
 
 > [!todo]+ 📋 Plan
-> - [ ] Check whether `peak_prom_per_file` worked again
-> - [ ] Run `spectrogram_intensity`
-
+> - Need to make it so that I can do all the runs and save the results with figures! Consolidate the procedure for getting the results
+> 	- Run 5_1_generate_groundtruths.py
+> 	- Run 5_2_benchmarking.py
+> 	- Run 5_3_barley.slurm
 
 > [!note]+ 💭 Reflection
 > 
