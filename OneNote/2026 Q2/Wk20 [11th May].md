@@ -76,8 +76,12 @@ SLURM run times...
 > - [ ] Run `spectrogram_intensity`
 > - [ ] 
 
+At 1306: .out is on line 5152. It seems that changing files during a slurm job is not a good idea! Changing config_bonisoli.py to have verbose: False d
+
 > [!note]+ 💭 Reflection
-> 
+> (1030-1130) Khait run on Cal/Bar/Rus
+> (1130-1330) Bonisoli run on Cal/Bar/Rus
+> (1330-1400) Klaminder run on Cal/Bar/Rus
 
 ---
 
