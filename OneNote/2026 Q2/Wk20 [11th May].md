@@ -76,7 +76,13 @@ SLURM run times...
 > - [ ] Run `spectrogram_intensity`
 > - [ ] 
 
-At 1306: .out is on line 5152. It seems that changing files during a slurm job is not a good idea! Changing config_bonisoli.py to have verbose: False d
+At 1306: .out is on line 5152. It seems that changing files during a slurm job is not a good idea! Changing config_bonisoli.py to have verbose: False. Nevertheless, at 1400 although no visible progress in .out, everything does seem to be working!
+
+Things started:
+- Re-run of all methods on Cal/Bar/Rus using the new script (in order to double-check its working)
+- Started runs ofCal/Bar/Rus using the variety of new methods
+
+TODO: generate the plots for all the new methods in benchmarking_analyse_results.ipynb
 
 > [!note]+ 💭 Reflection
 > (1030-1130) Khait run on Cal/Bar/Rus
