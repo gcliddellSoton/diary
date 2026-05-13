@@ -109,10 +109,13 @@ All ran on calibration. There are NO problems with the calibration dataset or th
 ## Wed 13th May
 
 > [!todo]+ 📋 Plan
-> - 
+> - Run khait_plus_corr on a single file e.g. 131 on desktop just to see what happens
+> - Send presentation
 
 > [!note]+ 💭 Reflection
-> 
+> (0900-1100) 
+> 	1. Made a few recordings of mint. They look promising
+> 	2. Started collating results for peak_prom_* runs. khait_plus_corr didn't run
 
 ---
 
