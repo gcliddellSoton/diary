@@ -56,19 +56,52 @@ SLURM run times...
 66 : 3684
 
 > [!note]+ 💭 Reflection
-> (1000-1100) 
+> It's taking too long to do all of the manual adjustments for each dataset when running the peak_prom_per_file method. I need to be able to hit 'run' and let it go, as by the time its finished, I've forgotten what I was actually doing! In theory, so far I have run:
+> 	- peak prominence + dataset specific threshold + no cross-check (i.e. klaminder)
+> 	- peak prominence + variable threshold + no cross-check
+> 	- peak prominence + dataset specific threshold + cross-check
+> And eventually I also need to have run:
+> 	- peak prominence + fixed threshold + no cross-check (i.e. what klaminder should be)
+> 	- peak prominence + fixed threshold + cross-check (klaminder with khait improvement)
+> 	- peak prominence + variable threshold + no cross-check
+> 	- peak prominence + variable threshold + cross-check
+> 	- peak prominence + variable threshold + cross-check + <3 oscillations
+
 
 ---
 
 ## Tue 12th May
 
 > [!todo]+ 📋 Plan
+<<<<<<< HEAD
 > - Need to make it so that I can do all the runs and save the results with figures! Consolidate the procedure for getting the results
 > 	- Run 5_1_generate_groundtruths.py
 > 	- Run 5_2_benchmarking.py
 > 	- Run 5_3_barley.slurm
+=======
+> - [ ] Get all combos of prominence/cross-corr/variable thresh running
+> - [ ] Submit PowerPoint + abstract to Vanui
+> - [ ] Find somewhere to call for car paintwork job
+
+At 1306: .out is on line 5152. It seems that changing files during a slurm job is not a good idea! Changing config_bonisoli.py to have verbose: False. Nevertheless, at 1400 although no visible progress in .out, everything does seem to be working!
+
+Things started:
+- Re-run of all methods on Cal/Bar/Rus using the new script (in order to double-check its working)
+- Started runs ofCal/Bar/Rus using the variety of new methods
+
+TODO: generate the plots for all the new methods in benchmarking_analyse_results.ipynb
+>>>>>>> 5edc5691fe7605c89307c041723e19217466e206
 
 > [!note]+ 💭 Reflection
+> (0900-1030) Distracted by: Biolab, CMP7000 controller manual, pump spec
+> (1030-1330) Code re-factor, then running KHA/BON/KLA on Cal/Bar/Rus
+> (1400-1600) Started running all the other methods on Cal/Bar/Rus
+> (1700-1700) Bonisoli crashed on Bar. Restart it with bonisoli config verbose=True
+
+peak_prom_fix_check ran
+prak_prom_fix_nocheck
+peak_prom_var_nocheck
+All ran on calibration. There are NO problems with the calibration dataset or the Khait method. BUT the others seem to be being OOM killed. Reducing the number of workers for the overnight run!
 > 
 
 ---

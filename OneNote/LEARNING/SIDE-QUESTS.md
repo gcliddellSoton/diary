@@ -12,3 +12,5 @@
 
 - Walnut cracker
 - Lemon tree water pump: plug into mains and add light/water sensors
+- Pump controller: micro 370 (£5) + check valve (buy/3D print/make out of marble+tube) + pressure sensor (£10)
+- 2-tank level controller
