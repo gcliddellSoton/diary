@@ -116,13 +116,20 @@ All ran on calibration. There are NO problems with the calibration dataset or th
 > (0900-1100) 
 > 	1. Made a few recordings of mint. They look promising
 > 	2. Started collating results for peak_prom_* runs. khait_plus_corr didn't run
+> (1300-1400) 
+> 	Siul meeting. Agreed to push on with cross-correlation method and ditch frankenstein-ing the peak prominence method
+> (1400-1750)
+> 	 Made more example cross-correlation notebooks! circular convolution + threshold of 0.175 looks good. Short+long window is also okay, but less good. Next need to make a new notebook using the function I've written in detector module
 
 ---
 
 ## Thu 14th May
 
 > [!todo]+ 📋 Plan
-> - 
+> - Summarise the results of the xcorr_test notebooks
+> - Pull up the function from plantSoundReproduction and rushRepo
+> - Decide on `corr_thresh` for the new function by running tests
+> - Run full `khait_plus_corr`
 
 > [!note]+ 💭 Reflection
 > 
