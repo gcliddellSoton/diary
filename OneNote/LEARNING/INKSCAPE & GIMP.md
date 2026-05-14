@@ -20,5 +20,9 @@
 **from the calibration setup diagram**
 * detoggle 'scale line widths' option to keep connectors the same width/height
 
+**From making transpiration Diagram**
+* When making curvey paths, easiest to draw them as straight segments then auto-smooth!
+* When importing an image and cropping it I made a rectangle around the area of interest and did Object>Clip>Set... Then to undo it... Object>Clip>Release!
+* 
 
 pt, em, mm, cm, px, ex...
