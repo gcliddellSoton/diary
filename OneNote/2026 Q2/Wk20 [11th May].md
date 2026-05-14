@@ -109,7 +109,7 @@ All ran on calibration. There are NO problems with the calibration dataset or th
 ## Wed 13th May
 
 > [!todo]+ 📋 Plan
-> - Run khait_plus_corr on a single file e.g. 131 on desktop just to see what happens
+> - [ ] Run khait_plus_corr on a single file e.g. 131 on desktop just to see what happens
 > - Send presentation
 
 > [!note]+ 💭 Reflection
@@ -126,14 +126,25 @@ All ran on calibration. There are NO problems with the calibration dataset or th
 ## Thu 14th May
 
 > [!todo]+ 📋 Plan
-> - Summarise the results of the xcorr_test notebooks
-> - Pull up the function from plantSoundReproduction and rushRepo
-> - Decide on `corr_thresh` for the new function by running tests
-> - Run full `khait_plus_corr`
+> - [ ] Summarise the results of the xcorr_test notebooks
+> - [ ] Pull up the function from plantSoundReproduction and rushRepo
+> - [ ] Decide on `corr_thresh` for the new function by running tests
+> - [ ] Run full `khait_plus_corr`
 
 > [!note]+ 💭 Reflection
-> 
+> (0900-1000) Meeting before interviews
+> (1000-1145) Made diagram for DG group presentation, wrote title & abstract, then sent it
+> (1145-1400) Lunch with Mohammed Ali & Katherine. Both lovely.
+> (1400-1500) Wrote notes on Inkscape tips used to make the transpiration diagram
+> (1500-1600) .... [TICK OFF THE THINGS IN THE PLAN!!]
 
+Rahul:
+- Nice. Mostly interested in analytical methods
+- Was excited by the idea of coming to the UK to meet past collaborators
+Ajay Kumar:
+* Very enthusiastic and personable
+* Appears very ambitious and driven as well as marketing himself well
+* Publication record looks somehow suspicious as there are many papers with very similar names
 ---
 
 ## Fri 15th May
