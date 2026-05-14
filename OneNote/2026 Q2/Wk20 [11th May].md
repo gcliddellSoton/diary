@@ -79,7 +79,7 @@ SLURM run times...
 > 	- Run 5_2_benchmarking.py
 > 	- Run 5_3_barley.slurm
 =======
-> - [ ] Get all combos of prominence/cross-corr/variable thresh running
+> - [x] Get all combos of prominence/cross-corr/variable thresh running
 > - [ ] Submit PowerPoint + abstract to Vanui
 > - [ ] Find somewhere to call for car paintwork job
 
@@ -102,7 +102,6 @@ peak_prom_fix_check ran
 prak_prom_fix_nocheck
 peak_prom_var_nocheck
 All ran on calibration. There are NO problems with the calibration dataset or the Khait method. BUT the others seem to be being OOM killed. Reducing the number of workers for the overnight run!
-> 
 
 ---
 
@@ -110,7 +109,7 @@ All ran on calibration. There are NO problems with the calibration dataset or th
 
 > [!todo]+ 📋 Plan
 > - [ ] Run khait_plus_corr on a single file e.g. 131 on desktop just to see what happens
-> - Send presentation
+> - [x] Send presentation
 
 > [!note]+ 💭 Reflection
 > (0900-1100) 
