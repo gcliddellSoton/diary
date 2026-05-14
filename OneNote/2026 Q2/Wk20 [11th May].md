@@ -135,7 +135,15 @@ All ran on calibration. There are NO problems with the calibration dataset or th
 > (1000-1145) Made diagram for DG group presentation, wrote title & abstract, then sent it
 > (1145-1400) Lunch with Mohammed Ali & Katherine. Both lovely.
 > (1400-1500) Wrote notes on Inkscape tips used to make the transpiration diagram
-> (1500-1600) .... [TICK OFF THE THINGS IN THE PLAN!!]
+> (1500-1600) .... Carried on with xcorr code... I think I've got to the point that the new logic is ready. And the threshold I can see should be somewhere around 0.14 (double check against old code).
+> (1700-2000) Double testing the GCC-PHAT code...
+
+**Reasons why GCC-PHAT might be failing:**
+* DC offset (not this!)
+* Time-domain aliasing (due to circular correlation effects wrapping around the block during IFFT). Solution = zero-padding the FFT window
+* Division by zero during the cross-spectrum division. Solution = try adding a small constant
+* Spectral leakage. (not this!)
+* 
 
 Rahul:
 - Nice. Mostly interested in analytical methods
