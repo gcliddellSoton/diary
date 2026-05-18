@@ -34,34 +34,7 @@ cssclasses: diary-week
 
 
 > [!note]+ 💭 Reflection
-> - [x] Writing the rush dataset (low priority)
-> - [ ] Add high-frequency example to examples_grid
-> - [x] Add tables describing the rush & barley recordings (SI?)
-> - [ ] Estimate signal-noise-ratio in hard/easy examples
-> - [ ] Add reference to Khaitreproduction gitlab repository
-> - [ ] Make Magnitude/Amplitude labels scientifically annotated
-> - [ ] Add normalisation description to example grid
-> - [x] Redo calibration diagram in PowerPoint (remove image)
-> - [x] Redo Barley diagram
-> - [ ] Add image of barley/rush/calibration setups to SI
-> - [ ] Check whether there is an implicit overlap check in the Bonisoli method!
-> - [x] Read through Klaminder method (15 mins)
-> - [x] Make corrections (1hr)
-> - [x] Compress Klaminder figure
-> - [x] Fix Khait table width
-> - [x] Fix colour scheme of figure 11 (gaussian)
-> - [x] Check number of 'clipped signals in the Khait dataset'
-> - [x] Fix subfigure breakages...
-> - [x] Fix FuncFormatter font changes in specgram+time plots
-> - [x] Revise numbers in Bonisoli results section
-> - [x] Add histogram and fit to Klaminder results
-> - [x] Rotate results table headers back to horizontal...
-> - [x] Fix red dot in IIR figure
-> - [x] Klaminder Peak-finding put subject at the beginning of the sentence
-> - [x] Bring 'threshold calculation' and 'summary statistics' to their own section + insert Geoffrey method in the middle
-> - [x] Klaminder results & discussion bullet points
-> - [x] Table 1 and Figure 1 to SI (and or condense)
-> - [x] Move pre-processing description to its own section after rushes (e)
+> - (moved the big todo list to the MAY TODO note)
 
 > Made lots of corrections
 > Reduced the number of errors in the Overleaf output drastically

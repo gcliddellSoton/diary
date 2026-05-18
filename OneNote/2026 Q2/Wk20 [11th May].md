@@ -23,7 +23,7 @@ cssclasses: diary-week
 ## Mon 11th May
 
 On Sunday I had a go at running `peak_prom_per_file` without the cross-microphone check, just peak prominence + per-file threshold. Unfortunately the per-file threshold is way way too low! (Too many false positives). I've changed the calculation of p_fa to use the number of spectrogram slices, not the number of window-widths. This is jerry-mandering and won't lead to better results in the long run!
-
+a
 Sudden ModuleNotFoundError coming from `from scipy.signal import ShortTimeFFT`. No idea why as the exact same commands work from an interactive job.
 
 Weirdly... If I set the threshold for `peak_prominence_per_file` using a fitted distribution, it turns out quite badly most of the time, but PERFECTLY on the barley dataset? Can't explain why, but maybe the noise doesn't always fit a Gumbel.
@@ -143,7 +143,7 @@ All ran on calibration. There are NO problems with the calibration dataset or th
 * Time-domain aliasing (due to circular correlation effects wrapping around the block during IFFT). Solution = zero-padding the FFT window
 * Division by zero during the cross-spectrum division. Solution = try adding a small constant
 * Spectral leakage. (not this!)
-* 
+
 
 Rahul:
 - Nice. Mostly interested in analytical methods
@@ -157,10 +157,16 @@ Ajay Kumar:
 ## Fri 15th May
 
 > [!todo]+ 📋 Plan
-> - 
+> - [x] Make SCOT example
+> - [x] Run one file through khait_plus_corr
+> - [x] Whole run of khait_plus_corr
 
 > [!note]+ 💭 Reflection
-> 
+> (0900-1000) Exercise
+> (1000-1200) Ran SCOT example and khait_plus_corr synthetic examples/made notes for MK
+> (1200-1215) Chatted with Conor + Ollie. Ollie says: START 18 MONTH REPORT NOW!!!
+> (1215-1330) Getting khait_plus_corr runing with different thresh + peakprom with jerry-mander
+> (1400-1500) MK meeting. Discussed xcorr pros + cons and what to do next. Great!
 
 ---
 
