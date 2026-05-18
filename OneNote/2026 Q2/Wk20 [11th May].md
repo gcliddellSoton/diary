@@ -73,12 +73,10 @@ SLURM run times...
 ## Tue 12th May
 
 > [!todo]+ 📋 Plan
-<<<<<<< HEAD
 > - Need to make it so that I can do all the runs and save the results with figures! Consolidate the procedure for getting the results
 > 	- Run 5_1_generate_groundtruths.py
 > 	- Run 5_2_benchmarking.py
 > 	- Run 5_3_barley.slurm
-=======
 > - [x] Get all combos of prominence/cross-corr/variable thresh running
 > - [ ] Submit PowerPoint + abstract to Vanui
 > - [ ] Find somewhere to call for car paintwork job
@@ -90,7 +88,6 @@ Things started:
 - Started runs ofCal/Bar/Rus using the variety of new methods
 
 TODO: generate the plots for all the new methods in benchmarking_analyse_results.ipynb
->>>>>>> 5edc5691fe7605c89307c041723e19217466e206
 
 > [!note]+ 💭 Reflection
 > (0900-1030) Distracted by: Biolab, CMP7000 controller manual, pump spec
@@ -99,7 +96,7 @@ TODO: generate the plots for all the new methods in benchmarking_analyse_results
 > (1700-1700) Bonisoli crashed on Bar. Restart it with bonisoli config verbose=True
 
 peak_prom_fix_check ran
-prak_prom_fix_nocheck
+peak_prom_fix_nocheck
 peak_prom_var_nocheck
 All ran on calibration. There are NO problems with the calibration dataset or the Khait method. BUT the others seem to be being OOM killed. Reducing the number of workers for the overnight run!
 
@@ -179,4 +176,4 @@ Ajay Kumar:
 > 
 
 ---
-*← [[Wk19|Wk19]] | [[2026 Q2]] | [[Wk21|Wk21]] →*
+*← [[Wk19|Wk19]] | [[2026 Q2]] | [[Wk21 \[18th May\]]] →*

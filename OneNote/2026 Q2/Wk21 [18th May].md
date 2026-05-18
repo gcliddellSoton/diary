@@ -23,7 +23,11 @@ cssclasses: diary-week
 ## Mon 18th May
 
 > [!todo]+ 📋 Plan
-> - 
+> - Test short window with GCC-PHAT
+> - Try MK's code...
+> - Try higher threshold for corr_thresh (morning)
+> - Check results for jerry-mandered peak prominence thresholds
+
 
 > [!note]+ 💭 Reflection
 > 
