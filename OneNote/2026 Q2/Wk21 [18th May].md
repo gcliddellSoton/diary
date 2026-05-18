@@ -23,14 +23,21 @@ cssclasses: diary-week
 ## Mon 18th May
 
 > [!todo]+ 📋 Plan
-> - Test short window with GCC-PHAT
-> - Try MK's code...
-> - Try higher threshold for corr_thresh (morning)
-> - Check results for jerry-mandered peak prominence thresholds
+> - [ ] Test short window with GCC-PHAT
+> - [ ] Try MK's code...
+> - [ ] Try higher threshold for corr_thresh (morning)
+> - [ ] Check results for jerry-mandered peak prominence thresholds
 
+MOST IMPORTANT THINGS:
+- Plan QPD
+- Increase corr_thresh to 0.2
+- Double-check jerry-mandered peak prominence results against past result
+- Add duration calculation to peak prominence fixed
 
 > [!note]+ 💭 Reflection
-> 
+> - Jerry-mandered results look no different?
+> - 0.15 threshold didn't change much, go to 0.20
+
 
 ---
 
